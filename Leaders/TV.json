@@ -1,0 +1,1737 @@
+{
+    "nom_de_la_presse": "Leaders",
+    "categories": {
+        "Leadear TV": {
+            "articles": [
+                {
+                    "url_video": "https://www.leaders.com.tn/video/21473/21473-slaheddine-caid-essebsi-le-frere-de-beji-caid-essebsi-je-suis-le-seul-ami-et-le-confident-de-bce",
+                    "date_publish": "06.08.2020",
+                    "titre": "Slaheddine Caïd Essebsi, le frère de Beji Caïd Essebsi : Je suis le seul ami et le confident de BCE",
+                    "id": "https://www.leaders.com.tn/video/21473/21473-slaheddine-caid-essebsi-le-frere-de-beji-caid-essebsi-je-suis-le-seul-ami-et-le-confident-de-bce"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/21465/21465-topnet-le-leader-qui-s-emploie-a-democratiser-l-internet-et-innover-utilement",
+                    "date_publish": "05.08.2020",
+                    "titre": "TOPNET: Le leader qui s’emploie à démocratiser l’internet et innover utilement",
+                    "id": "https://www.leaders.com.tn/video/21465/21465-topnet-le-leader-qui-s-emploie-a-democratiser-l-internet-et-innover-utilement"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/21464/21464-youssef-zouaghi",
+                    "date_publish": "04.08.2020",
+                    "titre": "Youssef Zouaghi",
+                    "id": "https://www.leaders.com.tn/video/21464/21464-youssef-zouaghi"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/21463/21463-taoufik-boufaied",
+                    "date_publish": "04.08.2020",
+                    "titre": "Taoufik Boufaïed",
+                    "id": "https://www.leaders.com.tn/video/21463/21463-taoufik-boufaied"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/21462/21462-khaled-sellami",
+                    "date_publish": "04.08.2020",
+                    "titre": "Khaled Sellami",
+                    "id": "https://www.leaders.com.tn/video/21462/21462-khaled-sellami"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/21461/21461-khaled-ben-abdallah",
+                    "date_publish": "04.08.2020",
+                    "titre": "Khaled Ben Abdallah",
+                    "id": "https://www.leaders.com.tn/video/21461/21461-khaled-ben-abdallah"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/21460/21460-imed-hazgui",
+                    "date_publish": "04.08.2020",
+                    "titre": "Imed Hazgui",
+                    "id": "https://www.leaders.com.tn/video/21460/21460-imed-hazgui"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/21459/21459-ahmed-chabchoub",
+                    "date_publish": "04.08.2020",
+                    "titre": "Ahmed Chabchoub",
+                    "id": "https://www.leaders.com.tn/video/21459/21459-ahmed-chabchoub"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/19239/19239-memoires-de-l-ambassadeur-mouldi-sakri",
+                    "date_publish": "07.01.2020",
+                    "titre": "Mémoires de l’ambassadeur Mouldi Sakri",
+                    "id": "https://www.leaders.com.tn/video/19239/19239-memoires-de-l-ambassadeur-mouldi-sakri"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/19238/19238-bh-bank-obtient-une-nouvelle-ligne-de-credit-de-la-bad-d-un-montant-de-100-millions-d-euros",
+                    "date_publish": "07.01.2020",
+                    "titre": "BH Bank obtient une nouvelle ligne de crédit de la BAD d’un montant de 100 millions d’euros",
+                    "id": "https://www.leaders.com.tn/video/19238/19238-bh-bank-obtient-une-nouvelle-ligne-de-credit-de-la-bad-d-un-montant-de-100-millions-d-euros"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/19047/19047-ben-jannet-co-en-revamping-aux-berges-du-lac",
+                    "date_publish": "24.12.2019",
+                    "titre": "Ben Jannet & Co en revamping aux Berges du Lac",
+                    "id": "https://www.leaders.com.tn/video/19047/19047-ben-jannet-co-en-revamping-aux-berges-du-lac"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/17903/17903-le-president-de-la-republique-kais-saied-prete-serment",
+                    "date_publish": "24.10.2019",
+                    "titre": "Le président de la République Kaïs Saïed prête serment",
+                    "id": "https://www.leaders.com.tn/video/17903/17903-le-president-de-la-republique-kais-saied-prete-serment"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/17826/17826-conferences-villes-du-maghreb-et-du-sahel",
+                    "date_publish": "17.10.2019",
+                    "titre": "conferences villes du Maghreb et du Sahel",
+                    "id": "https://www.leaders.com.tn/video/17826/17826-conferences-villes-du-maghreb-et-du-sahel"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/17829/17829-journee-mondiale-de-la-poste",
+                    "date_publish": "10.10.2019",
+                    "titre": "Journée Mondiale de La Poste",
+                    "id": "https://www.leaders.com.tn/video/17829/17829-journee-mondiale-de-la-poste"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/17835/17835-celebration-de-la-journee-national-de-la-culture",
+                    "date_publish": "03.10.2019",
+                    "titre": "Célèbration de la Journée National de la Culture",
+                    "id": "https://www.leaders.com.tn/video/17835/17835-celebration-de-la-journee-national-de-la-culture"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/17827/17827-la-douane-tunisienne-renforce-ses-capacites-en-matiere-de-lutte-contre-la-contrebande-de-tabac-en-s-appuyant-sur-la-technique-du-ciblage-et-de-la-selectivite",
+                    "date_publish": "01.10.2019",
+                    "titre": "La Douane tunisienne renforce ses capacités en matière de lutte contre la contrebande de tabac en s’appuyant sur la technique du ciblage et de la sélectivité",
+                    "id": "https://www.leaders.com.tn/video/17827/17827-la-douane-tunisienne-renforce-ses-capacites-en-matiere-de-lutte-contre-la-contrebande-de-tabac-en-s-appuyant-sur-la-technique-du-ciblage-et-de-la-selectivite"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/17832/17832-exposition-carthage-a-rome-le-mythe-immortel",
+                    "date_publish": "01.10.2019",
+                    "titre": "Exposition Carthage, à Rome : Le mythe immortel",
+                    "id": "https://www.leaders.com.tn/video/17832/17832-exposition-carthage-a-rome-le-mythe-immortel"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/17830/17830-forum-regional-huawei-pour-l-innovation-a-tunis",
+                    "date_publish": "25.09.2019",
+                    "titre": "Forum régional Huawei pour l’innovation à Tunis",
+                    "id": "https://www.leaders.com.tn/video/17830/17830-forum-regional-huawei-pour-l-innovation-a-tunis"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/17831/17831-yadh-ben-achour-demande-a-kais-saied-des-clarifications-sur-les-slogans-de-ses-partisans",
+                    "date_publish": "22.09.2019",
+                    "titre": "Yadh Ben Achour demande à Kaïs Saïed des clarifications sur les slogans de ses partisans",
+                    "id": "https://www.leaders.com.tn/video/17831/17831-yadh-ben-achour-demande-a-kais-saied-des-clarifications-sur-les-slogans-de-ses-partisans"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/17833/17833-election-presidentielle-annonce-des-resultats-preliminaires-saied-et-karoui-accedent-au-second-tour",
+                    "date_publish": "19.09.2019",
+                    "titre": "Election présidentielle: annonce des résultats préliminaires, Saïed et Karoui accèdent au second tour",
+                    "id": "https://www.leaders.com.tn/video/17833/17833-election-presidentielle-annonce-des-resultats-preliminaires-saied-et-karoui-accedent-au-second-tour"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/16924/16924-academie-militaire-la-grande-transformation",
+                    "date_publish": "16.09.2019",
+                    "titre": "Académie militaire: La grande transformation",
+                    "id": "https://www.leaders.com.tn/video/16924/16924-academie-militaire-la-grande-transformation"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/17828/17828-fete-nationale-americaine-a-tunis-une-ambiance-tres-us",
+                    "date_publish": "09.09.2019",
+                    "titre": "Fête nationale américaine à Tunis: une ambiance très US",
+                    "id": "https://www.leaders.com.tn/video/17828/17828-fete-nationale-americaine-a-tunis-une-ambiance-tres-us"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/17834/17834-quarantieme-jour-du-deces-de-bce-une-ceremonie-a-la-mesure-d-un-homme-d-exception",
+                    "date_publish": "07.09.2019",
+                    "titre": "Quarantième jour du décès de BCE : une cérémonie à la mesure d'un homme d'exception",
+                    "id": "https://www.leaders.com.tn/video/17834/17834-quarantieme-jour-du-deces-de-bce-une-ceremonie-a-la-mesure-d-un-homme-d-exception"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/14820/14820-visite-du-ministre-jhinaoui-en-argentine-6-et-7-mai-2019-une-grande-relance-annoncee",
+                    "date_publish": "29.04.2019",
+                    "titre": "Visite du ministre Jhinaoui en Argentine (6 et 7 mai 2019): Une grande relance annoncée",
+                    "id": "https://www.leaders.com.tn/video/14820/14820-visite-du-ministre-jhinaoui-en-argentine-6-et-7-mai-2019-une-grande-relance-annoncee"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/14418/14418-tunisia-digital-summit-tds-2019",
+                    "date_publish": "04.04.2019",
+                    "titre": "Tunisia Digital Summit (TDS) 2019",
+                    "id": "https://www.leaders.com.tn/video/14418/14418-tunisia-digital-summit-tds-2019"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/14417/14417-sommet-arabe-un-succes-en-fierte-tunisienne",
+                    "date_publish": "04.04.2019",
+                    "titre": "Sommet arabe : Un succès en fierté tunisienne",
+                    "id": "https://www.leaders.com.tn/video/14417/14417-sommet-arabe-un-succes-en-fierte-tunisienne"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/14306/14306-le-ctkd-rebaptise-ekuity-capital-presente-sa-nouvelle-vision",
+                    "date_publish": "27.03.2019",
+                    "titre": "Le CTKD, rebaptisé Ekuity Capital présente sa nouvelle vision",
+                    "id": "https://www.leaders.com.tn/video/14306/14306-le-ctkd-rebaptise-ekuity-capital-presente-sa-nouvelle-vision"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/14304/14304-mehdi-marai-intelligence-artificielle-une-priorite-tunisienne",
+                    "date_publish": "27.03.2019",
+                    "titre": "Mehdi Marai: Intelligence artificielle, une Priorité tunisienne",
+                    "id": "https://www.leaders.com.tn/video/14304/14304-mehdi-marai-intelligence-artificielle-une-priorite-tunisienne"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/14305/14305-amine-ben-ayed-jeune-tunisien-co-fondateur-de-dataperformers",
+                    "date_publish": "27.03.2019",
+                    "titre": "Amine Ben Ayed: Jeune Tunisien co-fondateur de Dataperformers",
+                    "id": "https://www.leaders.com.tn/video/14305/14305-amine-ben-ayed-jeune-tunisien-co-fondateur-de-dataperformers"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/14308/14308-lancement-officiel-de-la-marque-geely-en-tunisie",
+                    "date_publish": "23.03.2019",
+                    "titre": "Lancement officiel de la marque GEELY en Tunisie",
+                    "id": "https://www.leaders.com.tn/video/14308/14308-lancement-officiel-de-la-marque-geely-en-tunisie"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/14307/14307-le-navire-americain-uss-arlington-accoste-a-la-goulette",
+                    "date_publish": "23.03.2019",
+                    "titre": "Le navire américain USS Arlington accoste à la Goulette",
+                    "id": "https://www.leaders.com.tn/video/14307/14307-le-navire-americain-uss-arlington-accoste-a-la-goulette"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/13977/13977-tunisie-catering-une-longue-tradition-gastronomique",
+                    "date_publish": "15.02.2019",
+                    "titre": "Tunisie Catering: une longue tradition gastronomique",
+                    "id": "https://www.leaders.com.tn/video/13977/13977-tunisie-catering-une-longue-tradition-gastronomique"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/13862/13862-philippe-bohn-profession-agent-d-influence",
+                    "date_publish": "06.02.2019",
+                    "titre": "Philippe Bohn: \"Profession\" agent d'influence",
+                    "id": "https://www.leaders.com.tn/video/13862/13862-philippe-bohn-profession-agent-d-influence"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/13860/13860-decouvrez-la-brigade-canine-de-la-garde-nationale-tunisie",
+                    "date_publish": "06.02.2019",
+                    "titre": "Découvrez la Brigade canine de la Garde nationale Tunisie",
+                    "id": "https://www.leaders.com.tn/video/13860/13860-decouvrez-la-brigade-canine-de-la-garde-nationale-tunisie"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/13858/13858-en-grande-premiere-une-unite-militaire-aerienne-tunisienne-en-mission-de-paix-a-l-etranger",
+                    "date_publish": "06.02.2019",
+                    "titre": "En grande première : Une unité militaire aérienne tunisienne en mission de paix à l’étranger",
+                    "id": "https://www.leaders.com.tn/video/13858/13858-en-grande-premiere-une-unite-militaire-aerienne-tunisienne-en-mission-de-paix-a-l-etranger"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/13861/13861-la-visite-de-serguei-lavrov-bientot-la-signature-d-un-accord-de-cooperation-economique",
+                    "date_publish": "26.01.2019",
+                    "titre": "La visite de Serguei Lavrov : bientôt la signature d'un accord de coopération économique",
+                    "id": "https://www.leaders.com.tn/video/13861/13861-la-visite-de-serguei-lavrov-bientot-la-signature-d-un-accord-de-cooperation-economique"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/13859/13859-la-taef-finance-et-accompagne-le-developpement-de-la-societe-publicom",
+                    "date_publish": "25.01.2019",
+                    "titre": "La TAEF finance et accompagne le développement de la société Publicom",
+                    "id": "https://www.leaders.com.tn/video/13859/13859-la-taef-finance-et-accompagne-le-developpement-de-la-societe-publicom"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/13179/13179-qu-attend-khemaies-chammari-de-2019",
+                    "date_publish": "04.01.2019",
+                    "titre": "Qu’attend Khemaies Chammari de 2019",
+                    "id": "https://www.leaders.com.tn/video/13179/13179-qu-attend-khemaies-chammari-de-2019"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/13178/13178-khemaies-chammari-et-la-symbolique-de-sa-decoration",
+                    "date_publish": "04.01.2019",
+                    "titre": "Khemaies Chammari et la symbolique de sa décoration",
+                    "id": "https://www.leaders.com.tn/video/13178/13178-khemaies-chammari-et-la-symbolique-de-sa-decoration"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/13157/13157-nouvel-accord-significatif-pour-la-transformation-numerique-en-tunisie-et-dans-le-monde-arabe",
+                    "date_publish": "04.01.2019",
+                    "titre": "Nouvel accord significatif pour la transformation numérique en Tunisie et dans le monde arabe",
+                    "id": "https://www.leaders.com.tn/video/13157/13157-nouvel-accord-significatif-pour-la-transformation-numerique-en-tunisie-et-dans-le-monde-arabe"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/13119/13119-le-palais-kheireddine-dans-la-medina-de-tunis-celebre-l-oeuvre-de-gorgi",
+                    "date_publish": "28.12.2018",
+                    "titre": "Le palais Kheïreddine dans la médina de Tunis célèbre l’œuvre de Gorgi",
+                    "id": "https://www.leaders.com.tn/video/13119/13119-le-palais-kheireddine-dans-la-medina-de-tunis-celebre-l-oeuvre-de-gorgi"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/13118/13118-satem-fete-son-75eme-anniversaire",
+                    "date_publish": "28.12.2018",
+                    "titre": "Satem fête son 75éme anniversaire",
+                    "id": "https://www.leaders.com.tn/video/13118/13118-satem-fete-son-75eme-anniversaire"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/13120/13120-premiere-remise-de-diplomes-du-programme-de-developpement-en-leadership-public",
+                    "date_publish": "28.12.2018",
+                    "titre": "Première remise de diplômes du «Programme de développement en leadership public»",
+                    "id": "https://www.leaders.com.tn/video/13120/13120-premiere-remise-de-diplomes-du-programme-de-developpement-en-leadership-public"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/12817/12817-imprimantes-ecotank-epson-economisez-jusqu-a-90-de-l-encre",
+                    "date_publish": "29.11.2018",
+                    "titre": "Imprimantes EcoTank Epson : Economisez jusqu’à 90% de l’encre",
+                    "id": "https://www.leaders.com.tn/video/12817/12817-imprimantes-ecotank-epson-economisez-jusqu-a-90-de-l-encre"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/12814/12814-mohamed-kerrou-pourquoi-une-autre-revolution",
+                    "date_publish": "23.11.2018",
+                    "titre": "Mohamed Kerrou : pourquoi une autre révolution",
+                    "id": "https://www.leaders.com.tn/video/12814/12814-mohamed-kerrou-pourquoi-une-autre-revolution"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/12816/12816-politiques-culturelles-un-etat-regulateur-plutot-que-createur-de-culture",
+                    "date_publish": "22.11.2018",
+                    "titre": "Politiques culturelles, «Un Etat régulateur plutôt que créateur de culture»",
+                    "id": "https://www.leaders.com.tn/video/12816/12816-politiques-culturelles-un-etat-regulateur-plutot-que-createur-de-culture"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/12815/12815-le-trophee-de-l-esperance-en-visite-au-bardo",
+                    "date_publish": "15.11.2018",
+                    "titre": "Le trophée de l’Espérance en visite au Bardo",
+                    "id": "https://www.leaders.com.tn/video/12815/12815-le-trophee-de-l-esperance-en-visite-au-bardo"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/12588/12588-dix-illustres-figures-tunisiennes-celebrees-par-la-bibliotheque-nationale",
+                    "date_publish": "13.11.2018",
+                    "titre": "Dix illustres figures tunisiennes célébrées par la Bibliothèque nationale",
+                    "id": "https://www.leaders.com.tn/video/12588/12588-dix-illustres-figures-tunisiennes-celebrees-par-la-bibliotheque-nationale"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/12587/12587-hajer-abdelkafi-kamoun-pourquoi-j-ai-choisi-de-revenir-en-tunisie",
+                    "date_publish": "13.11.2018",
+                    "titre": "Hajer Abdelkafi Kamoun Pourquoi j’ai choisi de revenir en Tunisie",
+                    "id": "https://www.leaders.com.tn/video/12587/12587-hajer-abdelkafi-kamoun-pourquoi-j-ai-choisi-de-revenir-en-tunisie"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/12586/12586-la-cour-africaine-des-droits-de-l-homme-et-des-peuples-en-session-ordinaire-a-tunis",
+                    "date_publish": "13.11.2018",
+                    "titre": "La Cour africaine des Droits de l’Homme et des Peuples  en session ordinaire à Tunis",
+                    "id": "https://www.leaders.com.tn/video/12586/12586-la-cour-africaine-des-droits-de-l-homme-et-des-peuples-en-session-ordinaire-a-tunis"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/12585/12585-l-institut-confucius-debarque-en-tunisie",
+                    "date_publish": "13.11.2018",
+                    "titre": "L’Institut Confucius débarque en Tunisie",
+                    "id": "https://www.leaders.com.tn/video/12585/12585-l-institut-confucius-debarque-en-tunisie"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/12584/12584-sommet-bancaire-maghrebin-a-tunis-defis-et-perspectives-de-la-banque-de-demain",
+                    "date_publish": "13.11.2018",
+                    "titre": "Sommet bancaire maghrébin à Tunis: Défis et perspectives de la banque de demain",
+                    "id": "https://www.leaders.com.tn/video/12584/12584-sommet-bancaire-maghrebin-a-tunis-defis-et-perspectives-de-la-banque-de-demain"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/12332/12332-sommet-bancaire-maghrebin-a-tunis-defis-et-perspectives-de-la-banque-de-demain",
+                    "date_publish": "08.11.2018",
+                    "titre": "Sommet bancaire maghrébin à Tunis: Défis et perspectives de la banque de demain",
+                    "id": "https://www.leaders.com.tn/video/12332/12332-sommet-bancaire-maghrebin-a-tunis-defis-et-perspectives-de-la-banque-de-demain"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/12333/12333-hamadi-ayadi-pdg-du-biotechpole-sidi-thabet",
+                    "date_publish": "08.11.2018",
+                    "titre": "Hamadi Ayadi: PDG du Biotechpole Sidi Thabet",
+                    "id": "https://www.leaders.com.tn/video/12333/12333-hamadi-ayadi-pdg-du-biotechpole-sidi-thabet"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/12194/12194-la-lutte-contre-le-commerce-illicite-la-tunisie-peut-mieux-faire",
+                    "date_publish": "05.11.2018",
+                    "titre": "La lutte contre  le Commerce illicite : La Tunisie peut mieux faire",
+                    "id": "https://www.leaders.com.tn/video/12194/12194-la-lutte-contre-le-commerce-illicite-la-tunisie-peut-mieux-faire"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/11955/11955-sauver-d-urgence-le-secteur-laitier-quelles-solutions-de-sortie-de-crise",
+                    "date_publish": "18.10.2018",
+                    "titre": "Sauver d’urgence le secteur laitier: Quelles solutions de sortie de crise ?",
+                    "id": "https://www.leaders.com.tn/video/11955/11955-sauver-d-urgence-le-secteur-laitier-quelles-solutions-de-sortie-de-crise"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/11954/11954-la-tunisie-premier-pays-africain-francophone-a-accueillir-huawei-ict-academy",
+                    "date_publish": "18.10.2018",
+                    "titre": "La Tunisie, premier pays africain francophone à accueillir «Huawei ICT Academy»",
+                    "id": "https://www.leaders.com.tn/video/11954/11954-la-tunisie-premier-pays-africain-francophone-a-accueillir-huawei-ict-academy"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/11785/11785-discours-emmanuel-macron-au-sommet-de-la-francophonie",
+                    "date_publish": "11.10.2018",
+                    "titre": "Discours Emmanuel Macron au sommet de la Francophonie",
+                    "id": "https://www.leaders.com.tn/video/11785/11785-discours-emmanuel-macron-au-sommet-de-la-francophonie"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/11784/11784-centre-de-visite-technique-tous-sur-la-prise-de-rdv-en-ligne",
+                    "date_publish": "21.09.2018",
+                    "titre": "Centre de visite technique: Tous sur la prise de RDV en ligne",
+                    "id": "https://www.leaders.com.tn/video/11784/11784-centre-de-visite-technique-tous-sur-la-prise-de-rdv-en-ligne"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/11456/11456-caid-essebsi-aux-jeunes-du-moyen-orient",
+                    "date_publish": "28.08.2018",
+                    "titre": "Caïd Essebsi aux jeunes du Moyen-Orient,",
+                    "id": "https://www.leaders.com.tn/video/11456/11456-caid-essebsi-aux-jeunes-du-moyen-orient"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/9047/9047-laurent-gouailhardou-directeur-des-ventes-pour-l-afrique-francophone-d-epson",
+                    "date_publish": "21.02.2018",
+                    "titre": "Laurent Gouailhardou Directeur des ventes pour l'Afrique Francophone d'EPSON",
+                    "id": "https://www.leaders.com.tn/video/9047/9047-laurent-gouailhardou-directeur-des-ventes-pour-l-afrique-francophone-d-epson"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/9046/9046-imen-gharrab-conseiller-commerciale-epson-tunisie",
+                    "date_publish": "21.02.2018",
+                    "titre": "Imen Gharrab: conseiller commerciale Epson Tunisie",
+                    "id": "https://www.leaders.com.tn/video/9046/9046-imen-gharrab-conseiller-commerciale-epson-tunisie"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/9045/9045-lancement-de-la-nouveaute-de-epson-sur-le-marche",
+                    "date_publish": "21.02.2018",
+                    "titre": "Lancement de la nouveauté de Epson sur le marché",
+                    "id": "https://www.leaders.com.tn/video/9045/9045-lancement-de-la-nouveaute-de-epson-sur-le-marche"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/9044/9044-emna-limame-les-meilleures-opportunites-pour-acquerir",
+                    "date_publish": "21.02.2018",
+                    "titre": "Emna Limame: les meilleures opportunités pour acquérir",
+                    "id": "https://www.leaders.com.tn/video/9044/9044-emna-limame-les-meilleures-opportunites-pour-acquerir"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/9043/9043-visite-de-la-nouvelle-extension-usine-meuble",
+                    "date_publish": "21.02.2018",
+                    "titre": "Visite de la nouvelle extension usine Meuble",
+                    "id": "https://www.leaders.com.tn/video/9043/9043-visite-de-la-nouvelle-extension-usine-meuble"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/9042/9042-forum-economique-tunisie-france-2018",
+                    "date_publish": "21.02.2018",
+                    "titre": "Forum économique Tunisie - France 2018",
+                    "id": "https://www.leaders.com.tn/video/9042/9042-forum-economique-tunisie-france-2018"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/8734/8734-wassim-marrakchi-un-tunisien-a-harvard",
+                    "date_publish": "31.01.2018",
+                    "titre": "Wassim Marrakchi : Un Tunisien à Harvard",
+                    "id": "https://www.leaders.com.tn/video/8734/8734-wassim-marrakchi-un-tunisien-a-harvard"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/8728/8728-16eme-congres-de-l-utica",
+                    "date_publish": "31.01.2018",
+                    "titre": "16ème congrès de l’UTICA",
+                    "id": "https://www.leaders.com.tn/video/8728/8728-16eme-congres-de-l-utica"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/8729/8729-16eme-congres-de-l-utica",
+                    "date_publish": "31.01.2018",
+                    "titre": "16ème congrès de l’UTICA",
+                    "id": "https://www.leaders.com.tn/video/8729/8729-16eme-congres-de-l-utica"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/8727/8727-conference-nationale-le-developpement-des-zones-defavorisees",
+                    "date_publish": "31.01.2018",
+                    "titre": "Conférence nationale: Le Développement des zones défavorisées",
+                    "id": "https://www.leaders.com.tn/video/8727/8727-conference-nationale-le-developpement-des-zones-defavorisees"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/8739/8739-ghazi-ben-ahmed-directeur-executif-du-future-chambre-de-commerce-tuniso-finlandaise",
+                    "date_publish": "24.01.2018",
+                    "titre": "Ghazi Ben Ahmed: Directeur exécutif du future chambre de commerce Tuniso-Finlandaise",
+                    "id": "https://www.leaders.com.tn/video/8739/8739-ghazi-ben-ahmed-directeur-executif-du-future-chambre-de-commerce-tuniso-finlandaise"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/8737/8737-delegation-d-entrepreneurs-de-finlande-en-tunisie",
+                    "date_publish": "23.01.2018",
+                    "titre": "Délégation d'entrepreneurs de Finlande en Tunisie",
+                    "id": "https://www.leaders.com.tn/video/8737/8737-delegation-d-entrepreneurs-de-finlande-en-tunisie"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/8731/8731-jeffrey-feltman-under-secretary-general-for-political-affairs",
+                    "date_publish": "12.01.2018",
+                    "titre": "Jeffrey Feltman: Under-Secretary-General for Political Affairs",
+                    "id": "https://www.leaders.com.tn/video/8731/8731-jeffrey-feltman-under-secretary-general-for-political-affairs"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/8735/8735-express-air-cargo-lance-25-nouvelles-lignes-aeriennes-sur-l-afrique",
+                    "date_publish": "09.01.2018",
+                    "titre": "Express Air Cargo lance 25 nouvelles lignes aériennes sur l’Afrique",
+                    "id": "https://www.leaders.com.tn/video/8735/8735-express-air-cargo-lance-25-nouvelles-lignes-aeriennes-sur-l-afrique"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/8732/8732-ceremonie-de-signature-du-protocole-d-accord-entre-la-bh-et-l-ote",
+                    "date_publish": "14.12.2017",
+                    "titre": "Cérémonie de signature du protocole d’accord entre la BH et l'OTE",
+                    "id": "https://www.leaders.com.tn/video/8732/8732-ceremonie-de-signature-du-protocole-d-accord-entre-la-bh-et-l-ote"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/8733/8733-credit-de-120-millions-d-euros-de-la-bei-a-la-banque-de-l-habitat-pour-le-financement-des-pme",
+                    "date_publish": "09.11.2017",
+                    "titre": "Crédit de 120 Millions d’Euros de la BEI à la Banque de l’Habitat pour le financement des PME",
+                    "id": "https://www.leaders.com.tn/video/8733/8733-credit-de-120-millions-d-euros-de-la-bei-a-la-banque-de-l-habitat-pour-le-financement-des-pme"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/5880/5880-70-eme-anniversaire-de-l-utica-leaders-tunisie",
+                    "date_publish": "23.01.2017",
+                    "titre": "70 ème anniversaire de l'UTICA   Leaders Tunisie",
+                    "id": "https://www.leaders.com.tn/video/5880/5880-70-eme-anniversaire-de-l-utica-leaders-tunisie"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/5879/5879-hazem-ben-gacem-installe-a-tunis-un-bureau-de-harvard-une-double-opportunite",
+                    "date_publish": "23.01.2017",
+                    "titre": "Hazem Ben-Gacem installe à Tunis un bureau de Harvard : Une double opportunité",
+                    "id": "https://www.leaders.com.tn/video/5879/5879-hazem-ben-gacem-installe-a-tunis-un-bureau-de-harvard-une-double-opportunite"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/5878/5878-amiral-abderraouf-atallah-chef-d-etat-major-de-la-marine-tunisienne",
+                    "date_publish": "23.01.2017",
+                    "titre": "Amiral Abderraouf Atallah: Chef d’Etat major de la marine tunisienne",
+                    "id": "https://www.leaders.com.tn/video/5878/5878-amiral-abderraouf-atallah-chef-d-etat-major-de-la-marine-tunisienne"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/5877/5877-yadh-ben-achour-parution-du-livre-tunisie-une-revolution-en-pays-d-islam",
+                    "date_publish": "23.01.2017",
+                    "titre": "Yadh Ben Achour: Parution du livre “Tunisie une révolution en pays d’islam”",
+                    "id": "https://www.leaders.com.tn/video/5877/5877-yadh-ben-achour-parution-du-livre-tunisie-une-revolution-en-pays-d-islam"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/5876/5876-mohamed-el-moncer-attijari-bank-meilleure-banque-en-tunisie",
+                    "date_publish": "23.01.2017",
+                    "titre": "Mohamed El Moncer: Attijari bank «meilleure banque en Tunisie»",
+                    "id": "https://www.leaders.com.tn/video/5876/5876-mohamed-el-moncer-attijari-bank-meilleure-banque-en-tunisie"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/5874/5874-salem-hamdi-nouveau-president-de-l-agence-arabe-de-l-energie-atomique",
+                    "date_publish": "23.01.2017",
+                    "titre": "Salem Hamdi: Nouveau président de l’Agence arabe de l’énergie atomique",
+                    "id": "https://www.leaders.com.tn/video/5874/5874-salem-hamdi-nouveau-president-de-l-agence-arabe-de-l-energie-atomique"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/5461/5461-dr-akrimi-l-appui-de-la-gouvernance-locale-est-crucial-pour-une-bonne-transition-democratique-en-tunisie",
+                    "date_publish": "15.12.2016",
+                    "titre": "Dr Akrimi: L’appui de la gouvernance locale est crucial pour une bonne transition démocratique en Tunisie",
+                    "id": "https://www.leaders.com.tn/video/5461/5461-dr-akrimi-l-appui-de-la-gouvernance-locale-est-crucial-pour-une-bonne-transition-democratique-en-tunisie"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/5460/5460-l-eveil-d-une-nation-l-art-a-l-aube-de-la-tunisie-moderne-theme-d-une-exposition-a-kasr-es-said",
+                    "date_publish": "15.12.2016",
+                    "titre": "L’éveil d'une nation, l'art à l'aube de la Tunisie moderne\", thème d'une exposition à Kasr-es-Saïd",
+                    "id": "https://www.leaders.com.tn/video/5460/5460-l-eveil-d-une-nation-l-art-a-l-aube-de-la-tunisie-moderne-theme-d-une-exposition-a-kasr-es-said"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/5459/5459-pour-la-1ere-fois-en-tunisie-ben-jemaa-motors-lance-le-label-bmw-premium-selection",
+                    "date_publish": "15.12.2016",
+                    "titre": "Pour la 1ère fois en Tunisie : Ben Jemâa Motors lance le label ‘BMW Premium Selection’",
+                    "id": "https://www.leaders.com.tn/video/5459/5459-pour-la-1ere-fois-en-tunisie-ben-jemaa-motors-lance-le-label-bmw-premium-selection"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/5458/5458-fadhel-abdelkefi-la-tunisie-un-site-extremement-attractif-nous-proposons-des-projets-publics-prives-et-en-ppp",
+                    "date_publish": "15.12.2016",
+                    "titre": "Fadhel Abdelkéfi : La Tunisie, un site extrêmement attractif, nous proposons des projets publics, privés et en PPP",
+                    "id": "https://www.leaders.com.tn/video/5458/5458-fadhel-abdelkefi-la-tunisie-un-site-extremement-attractif-nous-proposons-des-projets-publics-prives-et-en-ppp"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/5273/5273-le-geant-chinois-king-long-s-installe-en-tunisie",
+                    "date_publish": "22.11.2016",
+                    "titre": "Le géant chinois King LOng s’installe en Tunisie",
+                    "id": "https://www.leaders.com.tn/video/5273/5273-le-geant-chinois-king-long-s-installe-en-tunisie"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/5272/5272-ouverture-de-la-34eme-session-de-l-institut-de-defense-nationale-idn",
+                    "date_publish": "22.11.2016",
+                    "titre": "Ouverture de la 34ème session de l'Institut de Défense Nationale (IDN)",
+                    "id": "https://www.leaders.com.tn/video/5272/5272-ouverture-de-la-34eme-session-de-l-institut-de-defense-nationale-idn"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/5271/5271-inauguration-de-la-nouvelle-boutique-ooredoo-a-l-ariana",
+                    "date_publish": "22.11.2016",
+                    "titre": "Inauguration de la nouvelle boutique Ooredoo à l'Ariana",
+                    "id": "https://www.leaders.com.tn/video/5271/5271-inauguration-de-la-nouvelle-boutique-ooredoo-a-l-ariana"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/5270/5270-express-air-cargo-prend-son-envol",
+                    "date_publish": "22.11.2016",
+                    "titre": "Express Air Cargo prend son envol",
+                    "id": "https://www.leaders.com.tn/video/5270/5270-express-air-cargo-prend-son-envol"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/5267/5267-lancement-des-imprimantes-epson-workforce-pro-rips-en-tunisie",
+                    "date_publish": "22.11.2016",
+                    "titre": "Lancement des imprimantes Epson WorkForce Pro RIPS en Tunisie",
+                    "id": "https://www.leaders.com.tn/video/5267/5267-lancement-des-imprimantes-epson-workforce-pro-rips-en-tunisie"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/5268/5268-vivo-energy-tunisie-et-japanese-motors-company-signent-une-convention-de-partenariat",
+                    "date_publish": "22.11.2016",
+                    "titre": "Vivo Energy Tunisie et Japanese Motors Company signent une convention de partenariat",
+                    "id": "https://www.leaders.com.tn/video/5268/5268-vivo-energy-tunisie-et-japanese-motors-company-signent-une-convention-de-partenariat"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/5264/5264-pr-sergei-baranovsky-les-technologies-nucleaires-sont-primordiales-pour-le-developpement-durable",
+                    "date_publish": "22.11.2016",
+                    "titre": "Pr Sergei Baranovsky : «Les technologies nucléaires sont primordiales pour le développement durable »",
+                    "id": "https://www.leaders.com.tn/video/5264/5264-pr-sergei-baranovsky-les-technologies-nucleaires-sont-primordiales-pour-le-developpement-durable"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/5269/5269-tiba-immobiliere-propose-une-gamme-diversifiee-de-produits",
+                    "date_publish": "22.11.2016",
+                    "titre": "Tiba immobilière propose une gamme diversifiée de produits",
+                    "id": "https://www.leaders.com.tn/video/5269/5269-tiba-immobiliere-propose-une-gamme-diversifiee-de-produits"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/5263/5263-taef-que-de-defis-releves-en-3-ans-d-existence",
+                    "date_publish": "22.11.2016",
+                    "titre": "TAEF: que de défis relevés en 3 ans d’existence",
+                    "id": "https://www.leaders.com.tn/video/5263/5263-taef-que-de-defis-releves-en-3-ans-d-existence"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/5262/5262-vivez-une-journee-de-reve-et-aidez-un-enfant-dans-son-quotidien",
+                    "date_publish": "22.11.2016",
+                    "titre": "Vivez une journée de rêve et aidez un enfant dans son quotidien",
+                    "id": "https://www.leaders.com.tn/video/5262/5262-vivez-une-journee-de-reve-et-aidez-un-enfant-dans-son-quotidien"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/4672/4672-comment-beneficier-du-programme-leadership-for-democracy-fellows-program",
+                    "date_publish": "20.10.2016",
+                    "titre": "Comment bénéficier du programme «Leadership for Democracy Fellows Program»",
+                    "id": "https://www.leaders.com.tn/video/4672/4672-comment-beneficier-du-programme-leadership-for-democracy-fellows-program"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/4671/4671-franc-succes-de-la-10eme-edition-de-l-atb-challenge",
+                    "date_publish": "20.10.2016",
+                    "titre": "Franc succès de la 10ème édition de l’ATB Challenge",
+                    "id": "https://www.leaders.com.tn/video/4671/4671-franc-succes-de-la-10eme-edition-de-l-atb-challenge"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/4670/4670-aman-bank-fete-le-lancement-du-nouveau-fonds-d-investissement-africamen",
+                    "date_publish": "20.10.2016",
+                    "titre": "AMAN BANK fête le lancement du nouveau fonds d'investissement AFRICAMEN",
+                    "id": "https://www.leaders.com.tn/video/4670/4670-aman-bank-fete-le-lancement-du-nouveau-fonds-d-investissement-africamen"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/4577/4577-sopal-fete-son-35e-anniversaire",
+                    "date_publish": "12.10.2016",
+                    "titre": "SOPAL fête son 35e anniversaire",
+                    "id": "https://www.leaders.com.tn/video/4577/4577-sopal-fete-son-35e-anniversaire"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/4576/4576-franc-succes-de-la-10eme-edition-de-l-atb-challenge",
+                    "date_publish": "11.10.2016",
+                    "titre": "Franc succès de la 10ème édition de l’ATB Challenge",
+                    "id": "https://www.leaders.com.tn/video/4576/4576-franc-succes-de-la-10eme-edition-de-l-atb-challenge"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/4573/4573-%D8%A7%D9%84%D8%AA%D9%8A%D8%AC%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%B1%D9%8A-%D9%85%D9%86-%D9%83%D8%B4-%D8%A7%D9%81-%D8%A5%D9%84%D9%89-%D8%A3%D9%88-%D9%84-%D8%A2%D9%85%D8%B1-%D9%84%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A",
+                    "date_publish": "11.10.2016",
+                    "titre": "التيجاني الكتاري: من كشّاف إلى أوّل آمر للحرس الوطني التونسي",
+                    "id": "https://www.leaders.com.tn/video/4573/4573-%D8%A7%D9%84%D8%AA%D9%8A%D8%AC%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%B1%D9%8A-%D9%85%D9%86-%D9%83%D8%B4-%D8%A7%D9%81-%D8%A5%D9%84%D9%89-%D8%A3%D9%88-%D9%84-%D8%A2%D9%85%D8%B1-%D9%84%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/4572/4572-%D8%A7%D9%84%D8%AA%D9%8A%D8%AC%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%B1%D9%8A-%D9%8A%D8%AF%D9%84%D9%8A-%D8%A8%D8%B4%D9%87%D8%A7%D8%AF%D8%A9-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%88%D8%AA%D8%B9%D9%8A%D9%8A%D9%86-%D8%B3%D8%A7%D9%85%D9%8A-%D8%B6%D8%A8%D8%A7%D8%B7-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%B9%D9%86%D8%AF-%D9%86%D8%B4%D8%A3%D8%AA%D9%87-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
+                    "date_publish": "11.10.2016",
+                    "titre": "(التيجاني الكتاري يدلي بشهادة تاريخية: بدايات الحرس الوطني وتعيين سامي ضباط الجيش عند نشأته(فيديو",
+                    "id": "https://www.leaders.com.tn/video/4572/4572-%D8%A7%D9%84%D8%AA%D9%8A%D8%AC%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%B1%D9%8A-%D9%8A%D8%AF%D9%84%D9%8A-%D8%A8%D8%B4%D9%87%D8%A7%D8%AF%D8%A9-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%88%D8%AA%D8%B9%D9%8A%D9%8A%D9%86-%D8%B3%D8%A7%D9%85%D9%8A-%D8%B6%D8%A8%D8%A7%D8%B7-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%B9%D9%86%D8%AF-%D9%86%D8%B4%D8%A3%D8%AA%D9%87-%D9%81%D9%8A%D8%AF%D9%8A%D9%88"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/4496/4496-express-air-cargo-prend-son-envol",
+                    "date_publish": "06.10.2016",
+                    "titre": "Express Air Cargo prend son envol",
+                    "id": "https://www.leaders.com.tn/video/4496/4496-express-air-cargo-prend-son-envol"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/4474/4474-un-ceremonial-militaire-fastueux",
+                    "date_publish": "04.10.2016",
+                    "titre": "Un cérémonial militaire fastueux",
+                    "id": "https://www.leaders.com.tn/video/4474/4474-un-ceremonial-militaire-fastueux"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/4398/4398-bh-la-bourse-ahmed-rjiba",
+                    "date_publish": "26.09.2016",
+                    "titre": "BH La Bourse Ahmed Rjiba",
+                    "id": "https://www.leaders.com.tn/video/4398/4398-bh-la-bourse-ahmed-rjiba"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3896/3896-l-ambassadeur-bechir-hantous-comment-j-ai-vecu-la-guerre-du-golfe",
+                    "date_publish": "12.08.2016",
+                    "titre": "L’ambassadeur Béchir Hantous: comment j'ai vécu la guerre du Golfe",
+                    "id": "https://www.leaders.com.tn/video/3896/3896-l-ambassadeur-bechir-hantous-comment-j-ai-vecu-la-guerre-du-golfe"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3895/3895-laura-baeza",
+                    "date_publish": "12.08.2016",
+                    "titre": "Laura Baeza, ambassadeur, chef de la Délégation de l’Union européenne",
+                    "id": "https://www.leaders.com.tn/video/3895/3895-laura-baeza"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3894/3894-evenement-exceptionnel-celebrites-et-figures-publiques-tunisiennes-participent-a-la-ceremonie-du-lancement-officiel-du-huawei-p9-video",
+                    "date_publish": "11.08.2016",
+                    "titre": "Evènement exceptionnel: Célébrités et figures publiques tunisiennes participent à la cérémonie du lancement officiel du Huawei P9- Vidéo",
+                    "id": "https://www.leaders.com.tn/video/3894/3894-evenement-exceptionnel-celebrites-et-figures-publiques-tunisiennes-participent-a-la-ceremonie-du-lancement-officiel-du-huawei-p9-video"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3883/3883-youssef-chahed-la-promesse-tenue-de-beji-caid-essebsi",
+                    "date_publish": "03.08.2016",
+                    "titre": "Youssef Chahed : \"La promesse tenue de Béji Caïd Essebsi\"",
+                    "id": "https://www.leaders.com.tn/video/3883/3883-youssef-chahed-la-promesse-tenue-de-beji-caid-essebsi"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3882/3882-essid-aux-ambassadeurs-et-consuls-de-tunisie-mieux-de-representation-plus-de-sacrifice",
+                    "date_publish": "03.08.2016",
+                    "titre": "Essid aux Ambassadeurs et consuls de Tunisie : Mieux de représentation, plus de sacrifice",
+                    "id": "https://www.leaders.com.tn/video/3882/3882-essid-aux-ambassadeurs-et-consuls-de-tunisie-mieux-de-representation-plus-de-sacrifice"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3830/3830-dernier-conseil-des-ministres-avant-le-bardo",
+                    "date_publish": "27.07.2016",
+                    "titre": "Dernier Conseil des ministres avant le Bardo",
+                    "id": "https://www.leaders.com.tn/video/3830/3830-dernier-conseil-des-ministres-avant-le-bardo"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3730/3730-%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D8%A2%D9%81%D8%A7%D9%82",
+                    "date_publish": "21.07.2016",
+                    "titre": "بيت الحكمة: الحصيلة والآفاق",
+                    "id": "https://www.leaders.com.tn/video/3730/3730-%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D8%A2%D9%81%D8%A7%D9%82"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3551/3551-extension-du-reseau-d-bank-abc-en-tunisie-16-eme-nouvelle-agence",
+                    "date_publish": "13.07.2016",
+                    "titre": "Extension du réseau d’Bank ABC en Tunisie: 16 ème nouvelle agence",
+                    "id": "https://www.leaders.com.tn/video/3551/3551-extension-du-reseau-d-bank-abc-en-tunisie-16-eme-nouvelle-agence"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3496/3496-qatar-airways-met-en-service-le-premier-dreamliner-en-tunisie",
+                    "date_publish": "29.06.2016",
+                    "titre": "Qatar Airways met en service  le premier Dreamliner en Tunisie",
+                    "id": "https://www.leaders.com.tn/video/3496/3496-qatar-airways-met-en-service-le-premier-dreamliner-en-tunisie"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3401/3401-%D8%B9%D9%85%D8%B1-%D9%85%D9%86%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%A7%D8%B1%D8%AA%D9%82%D8%A7%D8%A1-%D8%A8%D8%A7%D9%84%D9%85%D8%B1%D9%81%D9%82-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A6%D9%8A-%D8%BA%D8%A7%D9%8A%D8%AA%D9%86%D8%A7-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB",
+                    "date_publish": "20.06.2016",
+                    "titre": "(عمر منصور: الارتقاء بالمرفق القضائي غايتنا (الجزء الثالث",
+                    "id": "https://www.leaders.com.tn/video/3401/3401-%D8%B9%D9%85%D8%B1-%D9%85%D9%86%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%A7%D8%B1%D8%AA%D9%82%D8%A7%D8%A1-%D8%A8%D8%A7%D9%84%D9%85%D8%B1%D9%81%D9%82-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A6%D9%8A-%D8%BA%D8%A7%D9%8A%D8%AA%D9%86%D8%A7-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3402/3402-%D8%B9%D9%85%D8%B1-%D9%85%D9%86%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%A7%D8%B1%D8%AA%D9%82%D8%A7%D8%A1-%D8%A8%D8%A7%D9%84%D9%85%D8%B1%D9%81%D9%82-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A6%D9%8A-%D8%BA%D8%A7%D9%8A%D8%AA%D9%86%D8%A7-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A",
+                    "date_publish": "20.06.2016",
+                    "titre": "عمر منصور: الارتقاء بالمرفق القضائي غايتنا (الجزء الثاني",
+                    "id": "https://www.leaders.com.tn/video/3402/3402-%D8%B9%D9%85%D8%B1-%D9%85%D9%86%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%A7%D8%B1%D8%AA%D9%82%D8%A7%D8%A1-%D8%A8%D8%A7%D9%84%D9%85%D8%B1%D9%81%D9%82-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A6%D9%8A-%D8%BA%D8%A7%D9%8A%D8%AA%D9%86%D8%A7-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3400/3400-%D8%B9%D9%85%D8%B1-%D9%85%D9%86%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%A7%D8%B1%D8%AA%D9%82%D8%A7%D8%A1-%D8%A8%D8%A7%D9%84%D9%85%D8%B1%D9%81%D9%82-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A6%D9%8A-%D8%BA%D8%A7%D9%8A%D8%AA%D9%86%D8%A7-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%A3%D9%88%D9%84",
+                    "date_publish": "20.06.2016",
+                    "titre": "(عمر منصور: الارتقاء بالمرفق القضائي غايتنا (الجزء الأول",
+                    "id": "https://www.leaders.com.tn/video/3400/3400-%D8%B9%D9%85%D8%B1-%D9%85%D9%86%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%A7%D8%B1%D8%AA%D9%82%D8%A7%D8%A1-%D8%A8%D8%A7%D9%84%D9%85%D8%B1%D9%81%D9%82-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A6%D9%8A-%D8%BA%D8%A7%D9%8A%D8%AA%D9%86%D8%A7-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%A3%D9%88%D9%84"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3394/3394-exposition-galerie-mourad-chaaba",
+                    "date_publish": "02.06.2016",
+                    "titre": "Exposition Galerie Mourad Chaaba",
+                    "id": "https://www.leaders.com.tn/video/3394/3394-exposition-galerie-mourad-chaaba"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3393/3393-lancement-de-nessma-mobile",
+                    "date_publish": "02.06.2016",
+                    "titre": "Lancement de Nessma Mobile",
+                    "id": "https://www.leaders.com.tn/video/3393/3393-lancement-de-nessma-mobile"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3392/3392-cloture-du-pcam-un-bilan-fort-concluant-vient-couronner-quatre-ans-au-service-de-pme-tunisiennes",
+                    "date_publish": "02.06.2016",
+                    "titre": "Clôture du PCAM: Un bilan fort concluant vient couronner quatre ans au service de PME tunisiennes",
+                    "id": "https://www.leaders.com.tn/video/3392/3392-cloture-du-pcam-un-bilan-fort-concluant-vient-couronner-quatre-ans-au-service-de-pme-tunisiennes"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3391/3391-tunisie-telecom-concretise-la-securite-de-l-information",
+                    "date_publish": "02.06.2016",
+                    "titre": "Tunisie Telecom concrétise la sécurité de l’information",
+                    "id": "https://www.leaders.com.tn/video/3391/3391-tunisie-telecom-concretise-la-securite-de-l-information"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3278/3278-%D8%AD%D8%AF%D9%8A%D8%AB-%D9%85%D8%B9-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B1%D8%A4%D9%88%D9%81-%D8%A7%D9%84%D9%86%D8%AC%D8%A7%D8%B1-%D8%AD%D9%88%D9%84-%D8%A3%D9%87%D9%85-%D9%85%D8%AE%D8%B1%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D8%B4%D8%B1-%D9%84%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%86%D9%87%D8%B6%D8%A9",
+                    "date_publish": "27.05.2016",
+                    "titre": "حديث مع عبد الرؤوف النجار حول أهمّ مخرجات المؤتمر العاشر لحركة النهضة",
+                    "id": "https://www.leaders.com.tn/video/3278/3278-%D8%AD%D8%AF%D9%8A%D8%AB-%D9%85%D8%B9-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B1%D8%A4%D9%88%D9%81-%D8%A7%D9%84%D9%86%D8%AC%D8%A7%D8%B1-%D8%AD%D9%88%D9%84-%D8%A3%D9%87%D9%85-%D9%85%D8%AE%D8%B1%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D8%B4%D8%B1-%D9%84%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%86%D9%87%D8%B6%D8%A9"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3277/3277-ennahdha-s-apprete-a-creer-des-organisations-pour-les-femmes-et-les-jeunes-et-une-academie-politique",
+                    "date_publish": "27.05.2016",
+                    "titre": "Ennahdha s'apprête à créer des organisations pour les femmes et les jeunes et une académie politique",
+                    "id": "https://www.leaders.com.tn/video/3277/3277-ennahdha-s-apprete-a-creer-des-organisations-pour-les-femmes-et-les-jeunes-et-une-academie-politique"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3252/3252-scoop-informatique-s-affilie-a-jeux-video-and-co",
+                    "date_publish": "27.05.2016",
+                    "titre": "Scoop Informatique s’affilie à Jeux Vidéo and Co",
+                    "id": "https://www.leaders.com.tn/video/3252/3252-scoop-informatique-s-affilie-a-jeux-video-and-co"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3251/3251-%D8%AF-%D8%A3%D9%8A%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D9%88%D8%BA%D8%A7%D9%86%D9%85%D9%8A-%D8%B5%D8%A7%D8%AD%D8%A8-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D9%86%D8%A7%D9%82%D8%B6-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D8%A9",
+                    "date_publish": "27.05.2016",
+                    "titre": "د. أيمن البوغانمي صاحب كتاب : \"الخريف العربي في التناقض بين الثورة والديمقراطية",
+                    "id": "https://www.leaders.com.tn/video/3251/3251-%D8%AF-%D8%A3%D9%8A%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D9%88%D8%BA%D8%A7%D9%86%D9%85%D9%8A-%D8%B5%D8%A7%D8%AD%D8%A8-%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D9%86%D8%A7%D9%82%D8%B6-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D8%A9"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3250/3250-sous-officiers-tunisiens",
+                    "date_publish": "27.05.2016",
+                    "titre": "Sous officiers Tunisiens",
+                    "id": "https://www.leaders.com.tn/video/3250/3250-sous-officiers-tunisiens"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3249/3249-armee-de-l-air-tunisienne",
+                    "date_publish": "27.05.2016",
+                    "titre": "Armée de l'air tunisienne",
+                    "id": "https://www.leaders.com.tn/video/3249/3249-armee-de-l-air-tunisienne"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3248/3248-armee-de-terre-tunisienne",
+                    "date_publish": "27.05.2016",
+                    "titre": "Armée de terre tunisienne",
+                    "id": "https://www.leaders.com.tn/video/3248/3248-armee-de-terre-tunisienne"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3051/3051-%D8%B1%D8%A7%D8%B4%D8%AF-%D8%A7%D9%84%D8%BA%D9%86%D9%88%D8%B4%D9%8A-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D8%AB-%D9%84%D9%84%D9%8A%D8%AF%D8%B1%D8%B2-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB",
+                    "date_publish": "18.05.2016",
+                    "titre": "(راشد الغنوشي في حديث لليدرز العربية (الجزء الثالث",
+                    "id": "https://www.leaders.com.tn/video/3051/3051-%D8%B1%D8%A7%D8%B4%D8%AF-%D8%A7%D9%84%D8%BA%D9%86%D9%88%D8%B4%D9%8A-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D8%AB-%D9%84%D9%84%D9%8A%D8%AF%D8%B1%D8%B2-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3050/3050-%D8%B1%D8%A7%D8%B4%D8%AF-%D8%A7%D9%84%D8%BA%D9%86%D9%88%D8%B4%D9%8A-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D8%AB-%D9%84%D9%84%D9%8A%D8%AF%D8%B1%D8%B2-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A",
+                    "date_publish": "18.05.2016",
+                    "titre": "(راشد الغنوشي في حديث لليدرز العربية (الجزء الثاني",
+                    "id": "https://www.leaders.com.tn/video/3050/3050-%D8%B1%D8%A7%D8%B4%D8%AF-%D8%A7%D9%84%D8%BA%D9%86%D9%88%D8%B4%D9%8A-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D8%AB-%D9%84%D9%84%D9%8A%D8%AF%D8%B1%D8%B2-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3049/3049-%D8%B1%D8%A7%D8%B4%D8%AF-%D8%A7%D9%84%D8%BA%D9%86%D9%88%D8%B4%D9%8A-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D8%AB-%D9%84%D9%84%D9%8A%D8%AF%D8%B1%D8%B2-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%A3%D9%88%D9%84",
+                    "date_publish": "18.05.2016",
+                    "titre": "(راشد الغنوشي في حديث لليدرز العربية (الجزء الأول",
+                    "id": "https://www.leaders.com.tn/video/3049/3049-%D8%B1%D8%A7%D8%B4%D8%AF-%D8%A7%D9%84%D8%BA%D9%86%D9%88%D8%B4%D9%8A-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D8%AB-%D9%84%D9%84%D9%8A%D8%AF%D8%B1%D8%B2-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%A3%D9%88%D9%84"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/3048/3048-%D8%B1%D8%A7%D8%B4%D8%AF-%D8%A7%D9%84%D8%BA%D9%86%D9%88%D8%B4%D9%8A-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D8%AB-%D9%84%D9%84%D9%8A%D8%AF%D8%B1%D8%B2-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%A3%D9%88%D9%84",
+                    "date_publish": "18.05.2016",
+                    "titre": "(راشد الغنوشي في حديث لليدرز العربية (الجزء الأول",
+                    "id": "https://www.leaders.com.tn/video/3048/3048-%D8%B1%D8%A7%D8%B4%D8%AF-%D8%A7%D9%84%D8%BA%D9%86%D9%88%D8%B4%D9%8A-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D8%AB-%D9%84%D9%84%D9%8A%D8%AF%D8%B1%D8%B2-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%A3%D9%88%D9%84"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2989/2989-don-americain-de-materiel-militaire-a-la-tunisie-dans-le-cadre-de-la-lutte-antiterroriste",
+                    "date_publish": "16.05.2016",
+                    "titre": "Don américain de matériel militaire à la Tunisie dans le cadre de la lutte antiterroriste",
+                    "id": "https://www.leaders.com.tn/video/2989/2989-don-americain-de-materiel-militaire-a-la-tunisie-dans-le-cadre-de-la-lutte-antiterroriste"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2988/2988-hedi-mejdoub-comment-garantir-la-securite-pour-tous",
+                    "date_publish": "16.05.2016",
+                    "titre": "Hédi Mejdoub: Comment garantir la sécurité pour tous",
+                    "id": "https://www.leaders.com.tn/video/2988/2988-hedi-mejdoub-comment-garantir-la-securite-pour-tous"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2987/2987-hedi-mejdoub-messages-aux",
+                    "date_publish": "16.05.2016",
+                    "titre": "Hédi Mejdoub: Messages aux...",
+                    "id": "https://www.leaders.com.tn/video/2987/2987-hedi-mejdoub-messages-aux"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2986/2986-securite-informatique-lancement-des-solutions-qnap-entunisie-par-codis",
+                    "date_publish": "16.05.2016",
+                    "titre": "Sécurité informatique : lancement des solutions QNAP enTunisie par CODIS",
+                    "id": "https://www.leaders.com.tn/video/2986/2986-securite-informatique-lancement-des-solutions-qnap-entunisie-par-codis"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2865/2865-la-bourse-de-tunis-celebre-en-presence-d-essid-l-introduction-d-unimed-la-premiere-en-2016",
+                    "date_publish": "06.05.2016",
+                    "titre": "La Bourse de Tunis célèbre, en présence d'Essid, l’introduction d’Unimed, la première en 2016",
+                    "id": "https://www.leaders.com.tn/video/2865/2865-la-bourse-de-tunis-celebre-en-presence-d-essid-l-introduction-d-unimed-la-premiere-en-2016"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2864/2864-course-semi-marathon-de-l-arme-tunisienne",
+                    "date_publish": "04.05.2016",
+                    "titre": "Course semi marathon de l'armé tunisienne",
+                    "id": "https://www.leaders.com.tn/video/2864/2864-course-semi-marathon-de-l-arme-tunisienne"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2611/2611-gestion-des-dechets-pour-un-systeme-decentralise-efficient",
+                    "date_publish": "21.04.2016",
+                    "titre": "Gestion des déchets: Pour un système décentralisé, efficient",
+                    "id": "https://www.leaders.com.tn/video/2611/2611-gestion-des-dechets-pour-un-systeme-decentralise-efficient"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2600/2600-%D9%85%D9%80%D9%80%D9%80%D9%80%D9%86-%D8%A3%D8%B3%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D8%B1%D8%A7%D8%B1-%D8%AC%D9%80%D9%80%D8%A8%D9%80%D9%80%D9%84-%D8%A7%D9%84%D8%B4%D8%B9%D9%80%D9%80%D9%80%D9%80%D8%A7%D9%86%D8%A8%D9%80%D9%8A",
+                    "date_publish": "19.04.2016",
+                    "titre": "مــــن أســــــرار جــبــل الشعــــانبـي",
+                    "id": "https://www.leaders.com.tn/video/2600/2600-%D9%85%D9%80%D9%80%D9%80%D9%80%D9%86-%D8%A3%D8%B3%D9%80%D9%80%D9%80%D9%80%D9%80%D9%80%D8%B1%D8%A7%D8%B1-%D8%AC%D9%80%D9%80%D8%A8%D9%80%D9%80%D9%84-%D8%A7%D9%84%D8%B4%D8%B9%D9%80%D9%80%D9%80%D9%80%D8%A7%D9%86%D8%A8%D9%80%D9%8A"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2493/2493-%D8%B9%D8%B2%D9%8A%D8%B2-%D9%83%D8%B1%D9%8A%D8%B4%D8%A7%D9%86-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%B9%D9%86-%D9%83%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%D8%B9%D8%AF-%D8%A7%D9%84%D8%B1%D8%A8%D9%8A%D8%B9-la-promesse-du-printemps",
+                    "date_publish": "11.04.2016",
+                    "titre": "عزيز كريشان في حديث عن كتابه \"وعد الربيع\" (La Promesse Du Printemps)",
+                    "id": "https://www.leaders.com.tn/video/2493/2493-%D8%B9%D8%B2%D9%8A%D8%B2-%D9%83%D8%B1%D9%8A%D8%B4%D8%A7%D9%86-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%B9%D9%86-%D9%83%D8%AA%D8%A7%D8%A8%D9%87-%D9%88%D8%B9%D8%AF-%D8%A7%D9%84%D8%B1%D8%A8%D9%8A%D8%B9-la-promesse-du-printemps"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2448/2448-%D8%B1%D8%A7%D9%81%D8%B9-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A8-%D9%83%D9%8A%D9%81-%D8%AF%D8%AE%D9%84-%D9%81%D8%A7%D9%8A%D8%B2-%D8%A7%D9%84%D8%B3%D8%B1-%D8%A7%D8%AC-%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D9%88%D9%85%D8%A7%D9%87%D9%8A-%D8%A2%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D9%81%D9%8A-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7",
+                    "date_publish": "07.04.2016",
+                    "titre": "رافع الطبيب: كيف دخل فايز السرّاج طرابلس؟ وماهي آفاق التسوية السياسية في ليبيا؟",
+                    "id": "https://www.leaders.com.tn/video/2448/2448-%D8%B1%D8%A7%D9%81%D8%B9-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A8-%D9%83%D9%8A%D9%81-%D8%AF%D8%AE%D9%84-%D9%81%D8%A7%D9%8A%D8%B2-%D8%A7%D9%84%D8%B3%D8%B1-%D8%A7%D8%AC-%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D9%88%D9%85%D8%A7%D9%87%D9%8A-%D8%A2%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D9%81%D9%8A-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2447/2447-ou-va-la-libye-les-eclairages-d-un-expert-tunisien-rafaa-tabib",
+                    "date_publish": "07.04.2016",
+                    "titre": "Où va la Libye ? Les éclairages d'un expert tunisien, Rafaa Tabib",
+                    "id": "https://www.leaders.com.tn/video/2447/2447-ou-va-la-libye-les-eclairages-d-un-expert-tunisien-rafaa-tabib"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2446/2446-les-resistants-tunisiens-doivent-ils-rentrer-en-resistance",
+                    "date_publish": "07.04.2016",
+                    "titre": "Les Résistants tunisiens doivent-ils rentrer en résistance ?",
+                    "id": "https://www.leaders.com.tn/video/2446/2446-les-resistants-tunisiens-doivent-ils-rentrer-en-resistance"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2421/2421-la-4g-by-ooredoo-la-strategie-gagnante-de-youssef-el-masri",
+                    "date_publish": "31.03.2016",
+                    "titre": "La 4G by Ooredoo : “La stratégie gagnante” de Youssef El Masri",
+                    "id": "https://www.leaders.com.tn/video/2421/2421-la-4g-by-ooredoo-la-strategie-gagnante-de-youssef-el-masri"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2411/2411-%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%B2-%D8%A7%D9%82-%D9%83%D9%8A%D9%84%D8%A7%D9%86%D9%8A-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%B9%D9%86-%D9%83%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%88%D9%86-%D9%81%D9%8A-%D8%AA%D9%88%D9%86%D8%B3-%D9%85%D9%86-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%A8%D8%AF%D8%A7%D8%AF-%D8%A5%D9%84%D9%89-%D8%AB%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A-%D8%A9-%D9%88%D8%A7%D9%84%D9%83%D8%B1%D8%A7%D9%85%D8%A9",
+                    "date_publish": "31.03.2016",
+                    "titre": "الأستاذ عبدالرزّاق كيلاني في حديث عن كتابه : \"المحامون في تونس: من مقاومة الاستبداد إلى ثورة الحريّة والكرامة...",
+                    "id": "https://www.leaders.com.tn/video/2411/2411-%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%B2-%D8%A7%D9%82-%D9%83%D9%8A%D9%84%D8%A7%D9%86%D9%8A-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%B9%D9%86-%D9%83%D8%AA%D8%A7%D8%A8%D9%87-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%88%D9%86-%D9%81%D9%8A-%D8%AA%D9%88%D9%86%D8%B3-%D9%85%D9%86-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%A8%D8%AF%D8%A7%D8%AF-%D8%A5%D9%84%D9%89-%D8%AB%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A-%D8%A9-%D9%88%D8%A7%D9%84%D9%83%D8%B1%D8%A7%D9%85%D8%A9"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2410/2410-la-quete-urgente-de-leadership-pour-engager-les-reformes",
+                    "date_publish": "31.03.2016",
+                    "titre": "La quête urgente de leadership pour engager les réformes",
+                    "id": "https://www.leaders.com.tn/video/2410/2410-la-quete-urgente-de-leadership-pour-engager-les-reformes"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2409/2409-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D9%86%D8%B3-%D8%AA%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%B9%D8%B1%D9%88%D8%B6-%D8%A7%D9%84%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D8%B1-%D8%A7%D8%A8%D8%B9",
+                    "date_publish": "31.03.2016",
+                    "titre": "اتصالات تونس تكشف عن مجموعة عروض الجيل الرّابع",
+                    "id": "https://www.leaders.com.tn/video/2409/2409-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D9%86%D8%B3-%D8%AA%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%B9%D8%B1%D9%88%D8%B6-%D8%A7%D9%84%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D8%B1-%D8%A7%D8%A8%D8%B9"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2408/2408-tunisie-telecom-lance-ses-offres-de-la-4g-au-prix-de-la-3g",
+                    "date_publish": "31.03.2016",
+                    "titre": "Tunisie Telecom lance ses offres de la 4G au prix de la 3G",
+                    "id": "https://www.leaders.com.tn/video/2408/2408-tunisie-telecom-lance-ses-offres-de-la-4g-au-prix-de-la-3g"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2406/2406-forum-regional-de-la-jeunesse-du-debat-a-l-action-nigel-bellingham",
+                    "date_publish": "28.03.2016",
+                    "titre": "Forum Régional de la Jeunesse «Du débat à l'action» : (Nigel Bellingham)",
+                    "id": "https://www.leaders.com.tn/video/2406/2406-forum-regional-de-la-jeunesse-du-debat-a-l-action-nigel-bellingham"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2405/2405-forum-regional-de-la-jeunesse-du-debat-a-l-action-hatem-atallah",
+                    "date_publish": "28.03.2016",
+                    "titre": "Forum Régional de la Jeunesse «Du débat à l'action» : (Hatem Atallah)",
+                    "id": "https://www.leaders.com.tn/video/2405/2405-forum-regional-de-la-jeunesse-du-debat-a-l-action-hatem-atallah"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2404/2404-unimed-en-bourse-telechargez-le-document-de-reference-et-l-analyse-financiere",
+                    "date_publish": "28.03.2016",
+                    "titre": "UNIMED en Bourse : Téléchargez le document de référence et l’analyse financière",
+                    "id": "https://www.leaders.com.tn/video/2404/2404-unimed-en-bourse-telechargez-le-document-de-reference-et-l-analyse-financiere"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2218/2218-chedly-ayari-pourquoi-de-nouveaux-statuts-de-la-banque-centrale-et-une-nouvelle-loi-bancaire-sont-indispensables",
+                    "date_publish": "16.03.2016",
+                    "titre": "Chedly Ayari : Pourquoi de nouveaux statuts de la Banque centrale et une nouvelle loi bancaire sont indispensables",
+                    "id": "https://www.leaders.com.tn/video/2218/2218-chedly-ayari-pourquoi-de-nouveaux-statuts-de-la-banque-centrale-et-une-nouvelle-loi-bancaire-sont-indispensables"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2217/2217-eau-royale-une-nouvelle-unite-de-valorisation-d-eau-minerale-a-siliana",
+                    "date_publish": "16.03.2016",
+                    "titre": "Eau Royale: Une nouvelle unité de valorisation d’eau minérale à Siliana",
+                    "id": "https://www.leaders.com.tn/video/2217/2217-eau-royale-une-nouvelle-unite-de-valorisation-d-eau-minerale-a-siliana"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2216/2216-chedly-ayari-ben-guerdane-illustre-nos-fragilites-et-impose-le-besoin-d-etre-ensemble",
+                    "date_publish": "14.03.2016",
+                    "titre": "Chedly Ayari : Ben Guerdane illustre nos fragilités et impose le besoin d’être ensemble",
+                    "id": "https://www.leaders.com.tn/video/2216/2216-chedly-ayari-ben-guerdane-illustre-nos-fragilites-et-impose-le-besoin-d-etre-ensemble"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2215/2215-%D8%A7%D9%84%D8%B4%D8%A7%D8%B0%D9%84%D9%8A-%D8%A7%D9%84%D8%B9%D9%8A%D8%A7%D8%B1%D9%8A-%D8%B5%D9%85%D9%88%D8%AF-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%85%D8%B9%D8%AC%D8%B2%D8%A9",
+                    "date_publish": "14.03.2016",
+                    "titre": "الشاذلي العياري : صمود الاقتصاد الوطني معجزة",
+                    "id": "https://www.leaders.com.tn/video/2215/2215-%D8%A7%D9%84%D8%B4%D8%A7%D8%B0%D9%84%D9%8A-%D8%A7%D9%84%D8%B9%D9%8A%D8%A7%D8%B1%D9%8A-%D8%B5%D9%85%D9%88%D8%AF-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%85%D8%B9%D8%AC%D8%B2%D8%A9"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2214/2214-%D8%AC%D9%8A%D9%84-%D9%83%D9%8A%D8%A8%D9%8A%D9%84-%D8%AA%D8%AD%D9%84%D9%8A%D9%84-%D8%B8%D8%A7%D9%87%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D9%88%D8%B3%D8%A8%D9%84-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%AA%D9%87",
+                    "date_publish": "14.03.2016",
+                    "titre": "جيل كيبيل: تحليل ظاهرة الإرهاب وسبل مقاومته",
+                    "id": "https://www.leaders.com.tn/video/2214/2214-%D8%AC%D9%8A%D9%84-%D9%83%D9%8A%D8%A8%D9%8A%D9%84-%D8%AA%D8%AD%D9%84%D9%8A%D9%84-%D8%B8%D8%A7%D9%87%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D9%88%D8%B3%D8%A8%D9%84-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%AA%D9%87"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2213/2213-cambridge-english-accredite-medlec-tunis-pour-la-certification-en-langue-anglaise",
+                    "date_publish": "14.03.2016",
+                    "titre": "Cambridge English accrédite Medlec Tunis pour la certification en langue anglaise",
+                    "id": "https://www.leaders.com.tn/video/2213/2213-cambridge-english-accredite-medlec-tunis-pour-la-certification-en-langue-anglaise"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2212/2212-amna-guellali-profession-batir-un-etat-de-droit",
+                    "date_publish": "14.03.2016",
+                    "titre": "Amna Guellali - Profession: bâtir un Etat de droit!",
+                    "id": "https://www.leaders.com.tn/video/2212/2212-amna-guellali-profession-batir-un-etat-de-droit"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2133/2133-gilles-kepel-a-leaders-pourquoi-le-jihad-nous-menace-tous",
+                    "date_publish": "07.03.2016",
+                    "titre": "Gilles Kepel à Leaders: Pourquoi le \"Jihad\" nous menace tous?",
+                    "id": "https://www.leaders.com.tn/video/2133/2133-gilles-kepel-a-leaders-pourquoi-le-jihad-nous-menace-tous"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2132/2132-lancement-nouvelle-audi-a4",
+                    "date_publish": "07.03.2016",
+                    "titre": "Lancement Nouvelle Audi A4",
+                    "id": "https://www.leaders.com.tn/video/2132/2132-lancement-nouvelle-audi-a4"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2050/2050-forum-du-futur-le-dialogue-national-des-economistes",
+                    "date_publish": "26.02.2016",
+                    "titre": "Forum du Futur, le dialogue national des économistes",
+                    "id": "https://www.leaders.com.tn/video/2050/2050-forum-du-futur-le-dialogue-national-des-economistes"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2049/2049-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D9%88%D9%84%D9%89-%D9%85%D9%86-%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%AD%D9%88%D8%A7%D8%B1-%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D9%8A%D9%86",
+                    "date_publish": "26.02.2016",
+                    "titre": "الدورة الاولى من منتدى المستقبل، حوار وطني للاقتصاديين التونسيين",
+                    "id": "https://www.leaders.com.tn/video/2049/2049-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D9%88%D9%84%D9%89-%D9%85%D9%86-%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%AD%D9%88%D8%A7%D8%B1-%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D9%8A%D9%86"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2004/2004-%D9%86%D8%A7%D8%AC%D9%8A-%D8%AC%D9%84-%D9%88%D9%84-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%88%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A",
+                    "date_publish": "19.02.2016",
+                    "titre": "(ناجي جلّول: الجديد في القطاع التربوي (الجزء الثاني",
+                    "id": "https://www.leaders.com.tn/video/2004/2004-%D9%86%D8%A7%D8%AC%D9%8A-%D8%AC%D9%84-%D9%88%D9%84-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%88%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/2000/2000-%D9%86%D8%A7%D8%AC%D9%8A-%D8%AC%D9%84-%D9%88%D9%84-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%88%D9%8A",
+                    "date_publish": "18.02.2016",
+                    "titre": "(ناجي جلّول: الجديد في القطاع التربوي (الجزء الأول",
+                    "id": "https://www.leaders.com.tn/video/2000/2000-%D9%86%D8%A7%D8%AC%D9%8A-%D8%AC%D9%84-%D9%88%D9%84-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%88%D9%8A"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1974/1974-la-formation-professionnelle-repensee-pour-une-meilleure-employabilite-des-jeunes-competences",
+                    "date_publish": "12.02.2016",
+                    "titre": "La formation professionnelle repensée pour une meilleure employabilité des jeunes compétences",
+                    "id": "https://www.leaders.com.tn/video/1974/1974-la-formation-professionnelle-repensee-pour-une-meilleure-employabilite-des-jeunes-competences"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1973/1973-tout-sur-le-rideau-de-sable-de-l-armee-tunisienne-sur-la-frontiere-avec-la-libye",
+                    "date_publish": "12.02.2016",
+                    "titre": "Tout sur le rideau de sable de l’armée tunisienne sur la frontière avec la Libye",
+                    "id": "https://www.leaders.com.tn/video/1973/1973-tout-sur-le-rideau-de-sable-de-l-armee-tunisienne-sur-la-frontiere-avec-la-libye"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1972/1972-en-premiere-ligne-sur-la-frontiere-tuniso-libyenne-comment-la-tunisie-se-protege-contre-le-terrorisme-et-la-contrebande",
+                    "date_publish": "09.02.2016",
+                    "titre": "En première ligne sur la frontière tuniso-libyenne : comment la Tunisie se protège contre le terrorisme et la contrebande",
+                    "id": "https://www.leaders.com.tn/video/1972/1972-en-premiere-ligne-sur-la-frontiere-tuniso-libyenne-comment-la-tunisie-se-protege-contre-le-terrorisme-et-la-contrebande"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1971/1971-regiment-d-honneur-un-ceremonial-militaire-fastueux",
+                    "date_publish": "09.02.2016",
+                    "titre": "Régiment d’honneur: Un cérémonial militaire fastueux",
+                    "id": "https://www.leaders.com.tn/video/1971/1971-regiment-d-honneur-un-ceremonial-militaire-fastueux"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1970/1970-%D9%81%D8%A7%D8%B6%D9%84-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%83%D8%A7%D9%81%D9%8A-%D9%83%D9%8A%D9%81-%D8%AA%D8%B3%D9%87%D9%85-%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D9%81%D9%8A-%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A",
+                    "date_publish": "04.02.2016",
+                    "titre": "فاضل عبد الكافي: كيف تسهم البورصة في دعم الاقتصاد الوطني",
+                    "id": "https://www.leaders.com.tn/video/1970/1970-%D9%81%D8%A7%D8%B6%D9%84-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%83%D8%A7%D9%81%D9%8A-%D9%83%D9%8A%D9%81-%D8%AA%D8%B3%D9%87%D9%85-%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D9%81%D9%8A-%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1969/1969-jean-marc-salmon-et-les-29-jours-de-revolution-tunisienne",
+                    "date_publish": "04.02.2016",
+                    "titre": "Jean-Marc Salmon et les 29 jours de révolution tunisienne",
+                    "id": "https://www.leaders.com.tn/video/1969/1969-jean-marc-salmon-et-les-29-jours-de-revolution-tunisienne"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1968/1968-hedi-larbi-nous-devons-aider-les-amis-de-la-tunisie-a-nous-aider",
+                    "date_publish": "04.02.2016",
+                    "titre": "Hédi Larbi : Nous devons aider les amis de la Tunisie... à nous aider !",
+                    "id": "https://www.leaders.com.tn/video/1968/1968-hedi-larbi-nous-devons-aider-les-amis-de-la-tunisie-a-nous-aider"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1967/1967-%D8%A7%D9%84%D9%88%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D8%B2%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D9%82%D9%8A%D8%A8%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D8%A7%D9%84%D8%B7%D8%A7%D9%87%D8%B1-%D8%A8%D9%88%D8%B3%D9%85-%D8%A9-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%A7%D9%84%D8%B0%D9%83%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A",
+                    "date_publish": "04.02.2016",
+                    "titre": "(الوالي السابق في الزمن البورقيبي الأستاذ الطاهر بوسمّة في حديث الذكريات (الجزء الثاني",
+                    "id": "https://www.leaders.com.tn/video/1967/1967-%D8%A7%D9%84%D9%88%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D8%B2%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D9%82%D9%8A%D8%A8%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D8%A7%D9%84%D8%B7%D8%A7%D9%87%D8%B1-%D8%A8%D9%88%D8%B3%D9%85-%D8%A9-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%A7%D9%84%D8%B0%D9%83%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D8%B2%D8%A1-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1966/1966-%D8%A7%D9%84%D9%88%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D8%B2%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D9%82%D9%8A%D8%A8%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D8%A7%D9%84%D8%B7%D8%A7%D9%87%D8%B1-%D8%A8%D9%88%D8%B3%D9%85-%D8%A9-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%A7%D9%84%D8%B0%D9%83%D8%B1%D9%8A%D8%A7%D8%AA",
+                    "date_publish": "04.02.2016",
+                    "titre": "(الجزء الأول) الوالي السابق في الزمن البورقيبي الأستاذ الطاهر بوسمّة في حديث الذكريات",
+                    "id": "https://www.leaders.com.tn/video/1966/1966-%D8%A7%D9%84%D9%88%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D8%B2%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D9%82%D9%8A%D8%A8%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D8%A7%D9%84%D8%B7%D8%A7%D9%87%D8%B1-%D8%A8%D9%88%D8%B3%D9%85-%D8%A9-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%A7%D9%84%D8%B0%D9%83%D8%B1%D9%8A%D8%A7%D8%AA"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1965/1965-hedi-zaiem-l-unique-tunisien-en-namibie",
+                    "date_publish": "04.02.2016",
+                    "titre": "Hédi Zaïem : L’unique Tunisien en Namibie",
+                    "id": "https://www.leaders.com.tn/video/1965/1965-hedi-zaiem-l-unique-tunisien-en-namibie"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1964/1964-mohamed-ennaceur-l-essentiel-est-de-croire-au-projet-de-nidaa-tounes-et-de-le-faire-abouti",
+                    "date_publish": "04.02.2016",
+                    "titre": "Mohamed Ennaceur: L’essentiel est de croire au projet de Nidaa Tounès et de le faire abouti",
+                    "id": "https://www.leaders.com.tn/video/1964/1964-mohamed-ennaceur-l-essentiel-est-de-croire-au-projet-de-nidaa-tounes-et-de-le-faire-abouti"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1963/1963-mohamed-ennaceur-comment-repondre-aux-attentes-des-jeunes-et-des-regions",
+                    "date_publish": "04.02.2016",
+                    "titre": "Mohamed Ennaceur : Comment répondre aux attentes des jeunes et des régions",
+                    "id": "https://www.leaders.com.tn/video/1963/1963-mohamed-ennaceur-comment-repondre-aux-attentes-des-jeunes-et-des-regions"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1962/1962-mohamed-ennaceur-nous-mettrons-le-paquet-mais-devons-garantir-l-acceptabilite-et-l-applicabilite-des-lois",
+                    "date_publish": "04.02.2016",
+                    "titre": "Mohamed Ennaceur: Nous mettrons le paquet, mais devons garantir l’acceptabilité et l’applicabilité des lois",
+                    "id": "https://www.leaders.com.tn/video/1962/1962-mohamed-ennaceur-nous-mettrons-le-paquet-mais-devons-garantir-l-acceptabilite-et-l-applicabilite-des-lois"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1945/1945-ridha-ben-mosbah-il-est-temps-qu-en-tunisie-la-democratie-assure",
+                    "date_publish": "01.02.2016",
+                    "titre": "Ridha Ben Mosbah : Il est temps qu'en Tunisie la démocratie assure !",
+                    "id": "https://www.leaders.com.tn/video/1945/1945-ridha-ben-mosbah-il-est-temps-qu-en-tunisie-la-democratie-assure"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1898/1898-%D8%A7%D9%84%D9%88%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D8%B2%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D9%82%D9%8A%D8%A8%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D8%A7%D9%84%D8%B7%D8%A7%D9%87%D8%B1-%D8%A8%D9%88%D8%B3%D9%85-%D8%A9-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%A7%D9%84%D8%B0%D9%83%D8%B1%D9%8A%D8%A7%D8%AA",
+                    "date_publish": "25.01.2016",
+                    "titre": "الوالي السابق في الزمن البورقيبي الأستاذ الطاهر بوسمّة في حديث الذكريات",
+                    "id": "https://www.leaders.com.tn/video/1898/1898-%D8%A7%D9%84%D9%88%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D8%B2%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D9%82%D9%8A%D8%A8%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D8%A7%D9%84%D8%B7%D8%A7%D9%87%D8%B1-%D8%A8%D9%88%D8%B3%D9%85-%D8%A9-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%A7%D9%84%D8%B0%D9%83%D8%B1%D9%8A%D8%A7%D8%AA"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1873/1873-%D8%AD%D9%81%D9%84-%D8%AA%D9%83%D8%B1%D9%8A%D9%85-%D9%85%D9%85%D9%8A-%D8%B2-%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%B1%D8%A7%D9%81%D8%B9-%D8%A8%D9%86-%D8%B9%D8%A7%D8%B4%D9%88%D8%B1",
+                    "date_publish": "19.01.2016",
+                    "titre": "حفل تكريم مميّز لأستاذ القانون رافع بن عاشور",
+                    "id": "https://www.leaders.com.tn/video/1873/1873-%D8%AD%D9%81%D9%84-%D8%AA%D9%83%D8%B1%D9%8A%D9%85-%D9%85%D9%85%D9%8A-%D8%B2-%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%B1%D8%A7%D9%81%D8%B9-%D8%A8%D9%86-%D8%B9%D8%A7%D8%B4%D9%88%D8%B1"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1795/1795-raouf-mhenni-50-000-nouveaux-emplois-dans-les-tics",
+                    "date_publish": "13.01.2016",
+                    "titre": "Raouf Mhenni: 50.000 nouveaux emplois dans les TICs?",
+                    "id": "https://www.leaders.com.tn/video/1795/1795-raouf-mhenni-50-000-nouveaux-emplois-dans-les-tics"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1794/1794-lotfi-chaibi-les-nouveaux-statuts-de-la-banque-centrale",
+                    "date_publish": "13.01.2016",
+                    "titre": "Lotfi Chaïbi: Les nouveaux statuts de la banque centrale",
+                    "id": "https://www.leaders.com.tn/video/1794/1794-lotfi-chaibi-les-nouveaux-statuts-de-la-banque-centrale"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1793/1793-salem-mansouri-john-kennedy-et-l-algerie",
+                    "date_publish": "13.01.2016",
+                    "titre": "Salem Mansouri: John Kennedy et l'Algérie",
+                    "id": "https://www.leaders.com.tn/video/1793/1793-salem-mansouri-john-kennedy-et-l-algerie"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1792/1792-mansour-moalla-la-tunisie-quel-modele-de-developpement",
+                    "date_publish": "13.01.2016",
+                    "titre": "Mansour Moalla: La Tunisie, quel modèle de développement",
+                    "id": "https://www.leaders.com.tn/video/1792/1792-mansour-moalla-la-tunisie-quel-modele-de-developpement"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1766/1766-%D9%86%D8%B9%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%81%D9%87%D8%B1%D9%8A-%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D9%86%D8%B3-%D9%88ooredoo-%D9%85%D9%86-%D9%85%D8%AD%D8%A7%D9%88%D8%B1-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A-%D8%A9-%D9%88%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A7%D9%84%D9%85%D8%AE%D8%B7%D8%B7-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3",
+                    "date_publish": "12.01.2016",
+                    "titre": "نعمان الفهري: \"تفعيل الشراكة بين اتصالات تونس وOoredoo من محاور السياسة التونسيّة وبرنامج المخطط الخامس\"",
+                    "id": "https://www.leaders.com.tn/video/1766/1766-%D9%86%D8%B9%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%81%D9%87%D8%B1%D9%8A-%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D9%86%D8%B3-%D9%88ooredoo-%D9%85%D9%86-%D9%85%D8%AD%D8%A7%D9%88%D8%B1-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A-%D8%A9-%D9%88%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A7%D9%84%D9%85%D8%AE%D8%B7%D8%B7-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1765/1765-%D8%A7%D8%B7%D9%84%D8%A7%D9%82-%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A-%D8%A9-%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D9%81%D9%8A-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%A7%D8%B0-%D8%A7%D9%84%D8%B1%D8%A7%D8%AF%D9%8A%D9%88%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-ooredoo-%D9%88%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D9%86%D8%B3-%D9%81%D9%8A-%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D8%B2%D8%BA%D9%88%D8%A7%D9%86",
+                    "date_publish": "12.01.2016",
+                    "titre": "اطلاق تفعيل اتفاقيّة الاشتراك في شبكة النفاذ الراديوية بين Ooredoo واتصالات تونس في ولاية زغوان",
+                    "id": "https://www.leaders.com.tn/video/1765/1765-%D8%A7%D8%B7%D9%84%D8%A7%D9%82-%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A-%D8%A9-%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D9%81%D9%8A-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%A7%D8%B0-%D8%A7%D9%84%D8%B1%D8%A7%D8%AF%D9%8A%D9%88%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-ooredoo-%D9%88%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D9%86%D8%B3-%D9%81%D9%8A-%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D8%B2%D8%BA%D9%88%D8%A7%D9%86"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1764/1764-%D9%88%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D9%86%D8%B3-%D9%81%D9%8A-%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D8%B2%D8%BA%D9%88%D8%A7%D9%86-ooredoo-%D8%A7%D8%B7%D9%84%D8%A7%D9%82-%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A-%D8%A9-%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D9%81%D9%8A-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%A7%D8%B0-%D8%A7%D9%84%D8%B1%D8%A7%D8%AF%D9%8A%D9%88%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86",
+                    "date_publish": "12.01.2016",
+                    "titre": "واتصالات تونس في ولاية زغوان Ooredoo اطلاق تفعيل اتفاقيّة الاشتراك في شبكة النفاذ الراديوية بين",
+                    "id": "https://www.leaders.com.tn/video/1764/1764-%D9%88%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D9%86%D8%B3-%D9%81%D9%8A-%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D8%B2%D8%BA%D9%88%D8%A7%D9%86-ooredoo-%D8%A7%D8%B7%D9%84%D8%A7%D9%82-%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A-%D8%A9-%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83-%D9%81%D9%8A-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%A7%D8%B0-%D8%A7%D9%84%D8%B1%D8%A7%D8%AF%D9%8A%D9%88%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1737/1737-%D9%85%D9%86-%D9%85%D8%AD%D8%A7%D9%88%D8%B1-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A-%D8%A9-%D9%88%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A7%D9%84%D9%85%D8%AE%D8%B7%D8%B7-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3-ooredoo-%D9%86%D8%B9%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%81%D9%87%D8%B1%D9%8A-%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D9%86%D8%B3-%D9%88",
+                    "date_publish": "11.01.2016",
+                    "titre": "من محاور السياسة التونسيّة وبرنامج المخطط الخامس\" Ooredoo نعمان الفهري: \"تفعيل الشراكة بين اتصالات تونس و",
+                    "id": "https://www.leaders.com.tn/video/1737/1737-%D9%85%D9%86-%D9%85%D8%AD%D8%A7%D9%88%D8%B1-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A-%D8%A9-%D9%88%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A7%D9%84%D9%85%D8%AE%D8%B7%D8%B7-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3-ooredoo-%D9%86%D8%B9%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%81%D9%87%D8%B1%D9%8A-%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D9%86%D8%B3-%D9%88"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1639/1639-walid-bel-hadj-amor-nos-villes-de-bruits-et-de-fureur",
+                    "date_publish": "07.01.2016",
+                    "titre": "Walid Bel Hadj Amor: Nos villes, de bruits et de fureur",
+                    "id": "https://www.leaders.com.tn/video/1639/1639-walid-bel-hadj-amor-nos-villes-de-bruits-et-de-fureur"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1638/1638-le-plan-3p-youssef-chahed-les-pecheurs-les-pecheries-et-les-ports",
+                    "date_publish": "07.01.2016",
+                    "titre": "Le plan 3P Youssef Chahed : Les pêcheurs, les pêcheries et les ports",
+                    "id": "https://www.leaders.com.tn/video/1638/1638-le-plan-3p-youssef-chahed-les-pecheurs-les-pecheries-et-les-ports"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1637/1637-premier-patrouilleur-100-tunisien-les-secrets-d-un-pari-tenu-et-le-sens-d-une-forte-symbolique",
+                    "date_publish": "07.01.2016",
+                    "titre": "Premier patrouilleur 100% tunisien : Les secrets d’un pari tenu et le sens d’une forte symbolique",
+                    "id": "https://www.leaders.com.tn/video/1637/1637-premier-patrouilleur-100-tunisien-les-secrets-d-un-pari-tenu-et-le-sens-d-une-forte-symbolique"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1636/1636-sophie-bessis-la-vision-pour-le-pays-et-la-strategie-pour-la-mettre-en-oeuvre",
+                    "date_publish": "07.01.2016",
+                    "titre": "Sophie Bessis : La vision pour le pays et la stratégie pour la mettre en œuvre",
+                    "id": "https://www.leaders.com.tn/video/1636/1636-sophie-bessis-la-vision-pour-le-pays-et-la-strategie-pour-la-mettre-en-oeuvre"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1635/1635-revelations-sur-l-assassinat-de-hedi-chaker-des-photos-inedites-62-ans-apres",
+                    "date_publish": "07.01.2016",
+                    "titre": "Révélations sur l’assassinat de Hédi Chaker: des photos inédites, 62 ans après",
+                    "id": "https://www.leaders.com.tn/video/1635/1635-revelations-sur-l-assassinat-de-hedi-chaker-des-photos-inedites-62-ans-apres"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1625/1625-brigade-canine-de-la-garde-nationale-l-effet-de-surprise-qui-fige-le-flair-qui-debusque",
+                    "date_publish": "07.01.2016",
+                    "titre": "Brigade canine de la Garde nationale: L’effet de surprise qui fige, le flair qui débusque",
+                    "id": "https://www.leaders.com.tn/video/1625/1625-brigade-canine-de-la-garde-nationale-l-effet-de-surprise-qui-fige-le-flair-qui-debusque"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1624/1624-aicha-gorgi-la-culture-est-la-cle-des-maux-de-la-tunisie",
+                    "date_publish": "07.01.2016",
+                    "titre": "Aïcha Gorgi: «La culture est la clé des maux de la Tunisie»",
+                    "id": "https://www.leaders.com.tn/video/1624/1624-aicha-gorgi-la-culture-est-la-cle-des-maux-de-la-tunisie"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1623/1623-abdelwaheb-nachi-je-ne-suis-candidat-ni-a-la-presidence-ni-a-la-direction-generale-de-la-stb",
+                    "date_publish": "07.01.2016",
+                    "titre": "Abdelwaheb Nachi : Je ne suis candidat ni à la présidence, ni à la direction générale de la STB",
+                    "id": "https://www.leaders.com.tn/video/1623/1623-abdelwaheb-nachi-je-ne-suis-candidat-ni-a-la-presidence-ni-a-la-direction-generale-de-la-stb"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1622/1622-abdoulaye-sene-pour-construire-une-decentralisation-reussie-il-faut-dialoguer",
+                    "date_publish": "07.01.2016",
+                    "titre": "Abdoulaye Sene : « Pour construire une décentralisation réussie il faut dialoguer »",
+                    "id": "https://www.leaders.com.tn/video/1622/1622-abdoulaye-sene-pour-construire-une-decentralisation-reussie-il-faut-dialoguer"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1621/1621-walid-bel-hadj-amor-gouvernement-cherche-boussole",
+                    "date_publish": "07.01.2016",
+                    "titre": "Walid Bel Hadj Amor: Gouvernement cherche boussole",
+                    "id": "https://www.leaders.com.tn/video/1621/1621-walid-bel-hadj-amor-gouvernement-cherche-boussole"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1620/1620-sonia-mbarek-pour-un-etat-d-urgence-culturel",
+                    "date_publish": "07.01.2016",
+                    "titre": "Sonia Mbarek: Pour un état d’urgence culturel",
+                    "id": "https://www.leaders.com.tn/video/1620/1620-sonia-mbarek-pour-un-etat-d-urgence-culturel"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1619/1619-sami-zaoui-l-insecurite-le-desoeuvrement-des-jeunes-et-la-tension-dans-le-sud-et-l-ouest-tunisiens",
+                    "date_publish": "07.01.2016",
+                    "titre": "Sami Zaoui: L’insécurité, le désœuvrement des jeunes et la tension dans le Sud et l’Ouest tunisiens",
+                    "id": "https://www.leaders.com.tn/video/1619/1619-sami-zaoui-l-insecurite-le-desoeuvrement-des-jeunes-et-la-tension-dans-le-sud-et-l-ouest-tunisiens"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1618/1618-radhi-meddeb-ayons-l-honnetete-du-diagnostic-et-le-courage-de-l-action",
+                    "date_publish": "07.01.2016",
+                    "titre": "Radhi Meddeb : Ayons l’honnêteté du diagnostic et le courage de l’action",
+                    "id": "https://www.leaders.com.tn/video/1618/1618-radhi-meddeb-ayons-l-honnetete-du-diagnostic-et-le-courage-de-l-action"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1617/1617-quel-regard-porte-mustapha-tlili-sur-la-tunisie-et-les-pays-de-la-region",
+                    "date_publish": "07.01.2016",
+                    "titre": "Quel regard porte Mustapha Tlili sur la Tunisie et les pays de la région ?",
+                    "id": "https://www.leaders.com.tn/video/1617/1617-quel-regard-porte-mustapha-tlili-sur-la-tunisie-et-les-pays-de-la-region"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1616/1616-how-mustapha-tlili-views-tunisia-and-other-countries-of-the-region",
+                    "date_publish": "07.01.2016",
+                    "titre": "How Mustapha Tlili views Tunisia and other countries of the region",
+                    "id": "https://www.leaders.com.tn/video/1616/1616-how-mustapha-tlili-views-tunisia-and-other-countries-of-the-region"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1615/1615-mohamed-ibrahim-hsairi-l-antidote-requis-aux-maux-de-la-tunisie",
+                    "date_publish": "07.01.2016",
+                    "titre": "Mohamed Ibrahim Hsairi: L’antidote requis aux maux de la Tunisie",
+                    "id": "https://www.leaders.com.tn/video/1615/1615-mohamed-ibrahim-hsairi-l-antidote-requis-aux-maux-de-la-tunisie"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1614/1614-exclusif-syphax-l-interview-choc-de-mohamed-frikha-tiendra-t-il-ses-promesses",
+                    "date_publish": "07.01.2016",
+                    "titre": "Exclusif – Syphax : L’interview choc de Mohamed Frikha. Tiendra-t-il ses promesses ?",
+                    "id": "https://www.leaders.com.tn/video/1614/1614-exclusif-syphax-l-interview-choc-de-mohamed-frikha-tiendra-t-il-ses-promesses"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1613/1613-moez-ben-gharbia-attassiaa-tv-notre-objectif-est-de-devenir-la-chaine-tele-numero-trois-dans-le-pays",
+                    "date_publish": "07.01.2016",
+                    "titre": "Moez Ben Gharbia (Attassiaa TV): «Notre objectif est de devenir la chaîne télé numéro trois dans le pays»",
+                    "id": "https://www.leaders.com.tn/video/1613/1613-moez-ben-gharbia-attassiaa-tv-notre-objectif-est-de-devenir-la-chaine-tele-numero-trois-dans-le-pays"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1612/1612-loi-sur-la-reconciliation-mansour-moalla-qu-on-nous-dise-les-noms-des-beneficiaires-et-les-montants-qui-seront-recoltes",
+                    "date_publish": "07.01.2016",
+                    "titre": "Loi sur la réconciliation – Mansour Moalla : Qu’on nous dise les noms des bénéficiaires et les montants qui seront récoltés",
+                    "id": "https://www.leaders.com.tn/video/1612/1612-loi-sur-la-reconciliation-mansour-moalla-qu-on-nous-dise-les-noms-des-beneficiaires-et-les-montants-qui-seront-recoltes"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1611/1611-sur-les-dizaines-de-milliers-de-refugies-accueillis-par-la-tunisie-en-2011-300-ont-prefere-y-rester",
+                    "date_publish": "07.01.2016",
+                    "titre": "Sur les dizaines de milliers de réfugiés accueillis par la Tunisie en 2011, 300 ont préféré y rester",
+                    "id": "https://www.leaders.com.tn/video/1611/1611-sur-les-dizaines-de-milliers-de-refugies-accueillis-par-la-tunisie-en-2011-300-ont-prefere-y-rester"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1610/1610-habib-touhami-emploi-chomage-pouvoir-d-achat-services-publics-redressement-economique-securite-sociale",
+                    "date_publish": "07.01.2016",
+                    "titre": "Habib Touhami: Emploi, chômage, pouvoir d‘achat, services publics, redressement économique, sécurité sociale",
+                    "id": "https://www.leaders.com.tn/video/1610/1610-habib-touhami-emploi-chomage-pouvoir-d-achat-services-publics-redressement-economique-securite-sociale"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1609/1609-christine-lagarde-a-la-tunisie-inchallah",
+                    "date_publish": "07.01.2016",
+                    "titre": "Christine Lagarde à la Tunisie : « Inchallah ! »",
+                    "id": "https://www.leaders.com.tn/video/1609/1609-christine-lagarde-a-la-tunisie-inchallah"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1608/1608-al-montada-quand-de-jeunes-etudiants-veulent-ameliorer-l-enseignement",
+                    "date_publish": "07.01.2016",
+                    "titre": "Al-Montada : Quand de Jeunes Etudiants Veulent Améliorer l’Enseignement",
+                    "id": "https://www.leaders.com.tn/video/1608/1608-al-montada-quand-de-jeunes-etudiants-veulent-ameliorer-l-enseignement"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1607/1607-ce-que-chedly-ayari-a-demande-a-christine-lagarde",
+                    "date_publish": "07.01.2016",
+                    "titre": "Ce que Chedly Ayari a demandé à Christine Lagarde",
+                    "id": "https://www.leaders.com.tn/video/1607/1607-ce-que-chedly-ayari-a-demande-a-christine-lagarde"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1606/1606-chawki-gaddes-le-respect-des-donnees-personnelles-peut-engendrer-50-000-emplois",
+                    "date_publish": "07.01.2016",
+                    "titre": "Chawki Gaddes : « Le respect des données personnelles peut engendrer 50.000 emplois »",
+                    "id": "https://www.leaders.com.tn/video/1606/1606-chawki-gaddes-le-respect-des-donnees-personnelles-peut-engendrer-50-000-emplois"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1605/1605-cinq-etudiants-tunisiens-obtiennent-la-bourse-chevening-d-etudes-en-angleterre",
+                    "date_publish": "07.01.2016",
+                    "titre": "Cinq étudiants tunisiens obtiennent la bourse Chevening d'études en Angleterre",
+                    "id": "https://www.leaders.com.tn/video/1605/1605-cinq-etudiants-tunisiens-obtiennent-la-bourse-chevening-d-etudes-en-angleterre"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1604/1604-ahmed-rjiba-oui-je-suis-candidat-a-la-direction-generale-de-la-bh",
+                    "date_publish": "07.01.2016",
+                    "titre": "Ahmed Rjiba : Oui, je suis candidat à la direction générale de la BH",
+                    "id": "https://www.leaders.com.tn/video/1604/1604-ahmed-rjiba-oui-je-suis-candidat-a-la-direction-generale-de-la-bh"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1603/1603-ahmed-ounaies-voici-pourquoi-la-tunisie-doit-continuer-a-avoir-foi-dans-l-onu",
+                    "date_publish": "07.01.2016",
+                    "titre": "Ahmed Ounaïes : Voici pourquoi la Tunisie doit continuer à avoir foi dans l’ONU",
+                    "id": "https://www.leaders.com.tn/video/1603/1603-ahmed-ounaies-voici-pourquoi-la-tunisie-doit-continuer-a-avoir-foi-dans-l-onu"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1602/1602-la-crise-libyenne-vue-par-ahmed-ounaies",
+                    "date_publish": "06.01.2016",
+                    "titre": "La crise libyenne vue par Ahmed Ounaïes",
+                    "id": "https://www.leaders.com.tn/video/1602/1602-la-crise-libyenne-vue-par-ahmed-ounaies"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1595/1595-slim-chaker-les-salaires-des-directeurs-generaux-des-banques-publiques-seront-multiplies-par-quatre-et-plus",
+                    "date_publish": "06.01.2016",
+                    "titre": "Slim Chaker : Les salaires des directeurs généraux des banques publiques seront multipliés par quatre et plus",
+                    "id": "https://www.leaders.com.tn/video/1595/1595-slim-chaker-les-salaires-des-directeurs-generaux-des-banques-publiques-seront-multiplies-par-quatre-et-plus"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1594/1594-tout-sur-la-loi-des-finances-expliquee-par-le-ministre-slim-chaker",
+                    "date_publish": "06.01.2016",
+                    "titre": "Tout sur la loi des Finances, expliquée par le ministre Slim Chaker",
+                    "id": "https://www.leaders.com.tn/video/1594/1594-tout-sur-la-loi-des-finances-expliquee-par-le-ministre-slim-chaker"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1593/1593-logiquement-chedly-ayari-restera-a-la-tete-de-la-bct-jusqu-en-2018-selon-slim-chaker",
+                    "date_publish": "06.01.2016",
+                    "titre": "Logiquement, Chedly Ayari restera à la tête de la BCT jusqu'en 2018, selon Slim Chaker",
+                    "id": "https://www.leaders.com.tn/video/1593/1593-logiquement-chedly-ayari-restera-a-la-tete-de-la-bct-jusqu-en-2018-selon-slim-chaker"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1592/1592-conference-des-fabricants-arabes-de-cables-une-opportunite-pour-nouer-des-partenariats-avec-les-industriels-arabes",
+                    "date_publish": "06.01.2016",
+                    "titre": "Conférence des Fabricants Arabes de câbles : une opportunité pour nouer des partenariats avec les industriels arabes",
+                    "id": "https://www.leaders.com.tn/video/1592/1592-conference-des-fabricants-arabes-de-cables-une-opportunite-pour-nouer-des-partenariats-avec-les-industriels-arabes"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1591/1591-les-maires-francophones-en-conclave-a-tunis-du-7-au-9-octobre",
+                    "date_publish": "06.01.2016",
+                    "titre": "Les Maires francophones en conclave à Tunis du 7 au 9 octobre",
+                    "id": "https://www.leaders.com.tn/video/1591/1591-les-maires-francophones-en-conclave-a-tunis-du-7-au-9-octobre"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1590/1590-l-hommage-tardif-du-ministere-de-la-culture-a-chedly-klibi",
+                    "date_publish": "06.01.2016",
+                    "titre": "L’hommage (tardif) du ministère de la Culture à Chedly Klibi",
+                    "id": "https://www.leaders.com.tn/video/1590/1590-l-hommage-tardif-du-ministere-de-la-culture-a-chedly-klibi"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1589/1589-moncef-sellami-les-industriels-arabes-du-cable-sont-prets-a-investir-en-tunisie",
+                    "date_publish": "06.01.2016",
+                    "titre": "Moncef Sellami : Les industriels arabes du câble sont prêts à investir en Tunisie",
+                    "id": "https://www.leaders.com.tn/video/1589/1589-moncef-sellami-les-industriels-arabes-du-cable-sont-prets-a-investir-en-tunisie"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1588/1588-anis-rihai-lance-express-air-cargo-pour-desservir-a-partir-de-la-tunisie-51-pays-africains",
+                    "date_publish": "06.01.2016",
+                    "titre": "Anis Rihai lance Express Air Cargo pour desservir à partir de la Tunisie 51 pays africains",
+                    "id": "https://www.leaders.com.tn/video/1588/1588-anis-rihai-lance-express-air-cargo-pour-desservir-a-partir-de-la-tunisie-51-pays-africains"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1587/1587-tunisie-ennakl-a-cinquante-ans",
+                    "date_publish": "06.01.2016",
+                    "titre": "Tunisie : Ennakl a cinquante ans",
+                    "id": "https://www.leaders.com.tn/video/1587/1587-tunisie-ennakl-a-cinquante-ans"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1586/1586-%D8%A7%D9%84%D8%B0%D8%A7%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%AB%D8%A9-%D9%84%D9%84%D8%B1%D9%88%D8%A7%D8%A6%D9%8A-%D9%8A%D9%88%D8%B3%D9%81-%D8%A7%D9%84%D8%B4%D8%A7%D9%87%D8%AF",
+                    "date_publish": "06.01.2016",
+                    "titre": "\" الذاكرة المتحدثة \" للروائي يوسف الشاهد",
+                    "id": "https://www.leaders.com.tn/video/1586/1586-%D8%A7%D9%84%D8%B0%D8%A7%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%AB%D8%A9-%D9%84%D9%84%D8%B1%D9%88%D8%A7%D8%A6%D9%8A-%D9%8A%D9%88%D8%B3%D9%81-%D8%A7%D9%84%D8%B4%D8%A7%D9%87%D8%AF"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1585/1585-ooredoo-business-lance-sa-tournee-des-regions-avec-le-ooredoo-business-tour",
+                    "date_publish": "06.01.2016",
+                    "titre": "Ooredoo Business lance sa tournée des régions avec le «Ooredoo Business Tour»",
+                    "id": "https://www.leaders.com.tn/video/1585/1585-ooredoo-business-lance-sa-tournee-des-regions-avec-le-ooredoo-business-tour"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1584/1584-qui-est-khaled-babbou-nouveau-president-de-l-amcham-tunisia",
+                    "date_publish": "06.01.2016",
+                    "titre": "Qui est Khaled Babbou, nouveau président de l’AmCham Tunisia",
+                    "id": "https://www.leaders.com.tn/video/1584/1584-qui-est-khaled-babbou-nouveau-president-de-l-amcham-tunisia"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1583/1583-amel-bouchamoui-hammami-passe-la-main-a-la-tete-de-l-amcham-qui-lui-succedera",
+                    "date_publish": "06.01.2016",
+                    "titre": "Amel Bouchamoui Hammami passe la main à la tête de l’AmCham: Qui lui succèdera?",
+                    "id": "https://www.leaders.com.tn/video/1583/1583-amel-bouchamoui-hammami-passe-la-main-a-la-tete-de-l-amcham-qui-lui-succedera"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1582/1582-ahmed-bouzguenda-les-journees-de-l-entreprise-au-rendez-vous-malgre-les-evenements-recents",
+                    "date_publish": "06.01.2016",
+                    "titre": "Ahmed Bouzguenda : Les Journées de l'Entreprise au rendez-vous, malgré les évènements récents",
+                    "id": "https://www.leaders.com.tn/video/1582/1582-ahmed-bouzguenda-les-journees-de-l-entreprise-au-rendez-vous-malgre-les-evenements-recents"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1581/1581-leith-ben-becher-comment-sortir-l-agriculture-tunisienne-de-l-orniere",
+                    "date_publish": "06.01.2016",
+                    "titre": "Leith Ben Becher : Comment sortir l'agriculture tunisienne de l'ornière ?",
+                    "id": "https://www.leaders.com.tn/video/1581/1581-leith-ben-becher-comment-sortir-l-agriculture-tunisienne-de-l-orniere"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1580/1580-la-science-en-fete-a-tunis-une-manifestation-dediee-a-la-lumiere",
+                    "date_publish": "06.01.2016",
+                    "titre": "«La Science en fête à Tunis» : une manifestation dédiée à la lumière",
+                    "id": "https://www.leaders.com.tn/video/1580/1580-la-science-en-fete-a-tunis-une-manifestation-dediee-a-la-lumiere"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1579/1579-vivo-energy-tunisie-lance-un-lubrifiant-revolutionnaire",
+                    "date_publish": "06.01.2016",
+                    "titre": "Vivo Energy Tunisie lance un lubrifiant révolutionnaire",
+                    "id": "https://www.leaders.com.tn/video/1579/1579-vivo-energy-tunisie-lance-un-lubrifiant-revolutionnaire"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1578/1578-emirates-airline-inaugure-officiellement-ses-nouveaux-bureaux-en-tunisie",
+                    "date_publish": "06.01.2016",
+                    "titre": "Emirates Airline inaugure officiellement ses nouveaux bureaux en Tunisie",
+                    "id": "https://www.leaders.com.tn/video/1578/1578-emirates-airline-inaugure-officiellement-ses-nouveaux-bureaux-en-tunisie"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1577/1577-ihec-celebre-la-semaine-mondiale-de-l-entreprenariat-avec-ses-partenaires-ooredoo-et-fatales",
+                    "date_publish": "06.01.2016",
+                    "titre": "IHEC célèbre la semaine mondiale de l’Entreprenariat avec ses partenaires Ooredoo et Fatales",
+                    "id": "https://www.leaders.com.tn/video/1577/1577-ihec-celebre-la-semaine-mondiale-de-l-entreprenariat-avec-ses-partenaires-ooredoo-et-fatales"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1576/1576-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B7%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A-%D8%A9-%D9%84%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%A7%D9%86-%D9%8A%D8%A4%D8%B1-%D9%82%D9%86%D8%A7-%D8%A7%D9%84%D8%AA%D8%B9%D8%B0%D9%8A%D8%A8-%D9%88%D8%B3%D9%88%D8%A1-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A9",
+                    "date_publish": "06.01.2016",
+                    "titre": "رئيس الرابطة التونسيّة لحقوق الانسان : يؤرّقنا التعذيب وسوء المعاملة",
+                    "id": "https://www.leaders.com.tn/video/1576/1576-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B7%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A-%D8%A9-%D9%84%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%A7%D9%86-%D9%8A%D8%A4%D8%B1-%D9%82%D9%86%D8%A7-%D8%A7%D9%84%D8%AA%D8%B9%D8%B0%D9%8A%D8%A8-%D9%88%D8%B3%D9%88%D8%A1-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A9"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1575/1575-%D8%B3%D8%B1%D8%B7%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D8%AF%D9%8A-%D9%83%D8%AA%D8%A7%D8%A8-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%AC%D9%8A-%D9%85%D8%B9%D8%A7%D9%84%D8%AC",
+                    "date_publish": "05.01.2016",
+                    "titre": "\"سرطانات الثدي\" كتاب جديد للدكتور المنجي معالج",
+                    "id": "https://www.leaders.com.tn/video/1575/1575-%D8%B3%D8%B1%D8%B7%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D8%AF%D9%8A-%D9%83%D8%AA%D8%A7%D8%A8-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%AC%D9%8A-%D9%85%D8%B9%D8%A7%D9%84%D8%AC"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1574/1574-%D9%88%D8%B2%D9%8A%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AA%D9%88%D9%86%D8%B3",
+                    "date_publish": "05.01.2016",
+                    "titre": "وزير خارجية بريطانيا في تونس",
+                    "id": "https://www.leaders.com.tn/video/1574/1574-%D9%88%D8%B2%D9%8A%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AA%D9%88%D9%86%D8%B3"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1573/1573-un-nouveau-livre-du-dr-mongi-maalej-les-cancers-du-sein",
+                    "date_publish": "05.01.2016",
+                    "titre": "Un nouveau livre du dr Mongi Maalej : «Les cancers du sein»",
+                    "id": "https://www.leaders.com.tn/video/1573/1573-un-nouveau-livre-du-dr-mongi-maalej-les-cancers-du-sein"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1572/1572-ahmed-rjiba-les-trois-grands-chantiers-de-la-bh",
+                    "date_publish": "05.01.2016",
+                    "titre": "Ahmed Rjiba : Les trois grands chantiers de la BH",
+                    "id": "https://www.leaders.com.tn/video/1572/1572-ahmed-rjiba-les-trois-grands-chantiers-de-la-bh"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1571/1571-le-prix-nobel-de-la-paix-pour-un-sursaut-national",
+                    "date_publish": "05.01.2016",
+                    "titre": "Le Prix Nobel de la Paix : Pour un sursaut national",
+                    "id": "https://www.leaders.com.tn/video/1571/1571-le-prix-nobel-de-la-paix-pour-un-sursaut-national"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1570/1570-un-representant-du-nobel-a-tunis-pour-preparer-avec-le-quartet-sa-participation-a-la-ceremonie-de-remise-du-prix",
+                    "date_publish": "05.01.2016",
+                    "titre": "Un représentant du Nobel à Tunis pour préparer avec le Quartet sa participation à la cérémonie de remise du prix",
+                    "id": "https://www.leaders.com.tn/video/1570/1570-un-representant-du-nobel-a-tunis-pour-preparer-avec-le-quartet-sa-participation-a-la-ceremonie-de-remise-du-prix"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1569/1569-projet-de-loi-de-finances-2016-l-analyse-critique-de-l-association-des-jeunes-experts-comptables",
+                    "date_publish": "05.01.2016",
+                    "titre": "Projet de loi de Finances 2016 : l'analyse critique de l'Association des Jeunes Experts-Comptables",
+                    "id": "https://www.leaders.com.tn/video/1569/1569-projet-de-loi-de-finances-2016-l-analyse-critique-de-l-association-des-jeunes-experts-comptables"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1568/1568-%D9%85%D9%87%D8%AF%D9%8A-%D9%85%D8%B9%D8%B2%D9%88%D9%86-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%AC%D9%85%D8%B9%D9%8A-%D8%A9-%D8%A7%D9%84%D8%AE%D8%A8%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%8A%D9%86-%D9%81%D9%8A-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A-%D8%A9-%D9%84%D8%B3%D9%86%D8%A9-2016-%D8%A3%D8%AD%D9%83%D8%A7%D9%85-%D8%AC%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D9%85%D9%82%D8%A8%D9%88%D9%84%D8%A9-%D9%88%D8%A3%D8%AE%D8%B1%D9%89-%D9%84%D8%A7-%D9%86%D9%88%D8%A7%D9%81%D9%82-%D8%B9%D9%84%D9%8A%D9%87%D8%A7",
+                    "date_publish": "05.01.2016",
+                    "titre": "مهدي معزون رئيس جمعيّة الخبراء المحاسبين في مشروع قانون الماليّة لسنة 2016 أحكام جبائية مقبولة وأخرى لا نوافق عليها",
+                    "id": "https://www.leaders.com.tn/video/1568/1568-%D9%85%D9%87%D8%AF%D9%8A-%D9%85%D8%B9%D8%B2%D9%88%D9%86-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%AC%D9%85%D8%B9%D9%8A-%D8%A9-%D8%A7%D9%84%D8%AE%D8%A8%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%8A%D9%86-%D9%81%D9%8A-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A-%D8%A9-%D9%84%D8%B3%D9%86%D8%A9-2016-%D8%A3%D8%AD%D9%83%D8%A7%D9%85-%D8%AC%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D9%85%D9%82%D8%A8%D9%88%D9%84%D8%A9-%D9%88%D8%A3%D8%AE%D8%B1%D9%89-%D9%84%D8%A7-%D9%86%D9%88%D8%A7%D9%81%D9%82-%D8%B9%D9%84%D9%8A%D9%87%D8%A7"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1567/1567-%D8%B3%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D8%AF%D8%B9%D9%85-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%84%D9%84%D8%A5%D8%B5%D9%84%D8%A7%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AA%D9%88%D9%86%D8%B3",
+                    "date_publish": "05.01.2016",
+                    "titre": "سفير الولايات المتحدة الجديد: دعم واشنطن للإصلاحات الاقتصادية في تونس",
+                    "id": "https://www.leaders.com.tn/video/1567/1567-%D8%B3%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D8%AF%D8%B9%D9%85-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%84%D9%84%D8%A5%D8%B5%D9%84%D8%A7%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AA%D9%88%D9%86%D8%B3"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1566/1566-guy-sitbon-un-eclairage-interessant-sur-une-russie-qui-intrigue-et-un-vladimir-poutine-qui-inquiete",
+                    "date_publish": "05.01.2016",
+                    "titre": "Guy Sitbon : Un éclairage intéressant sur une Russie qui intrigue et un Vladimir Poutine qui inquiète",
+                    "id": "https://www.leaders.com.tn/video/1566/1566-guy-sitbon-un-eclairage-interessant-sur-une-russie-qui-intrigue-et-un-vladimir-poutine-qui-inquiete"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1565/1565-yassine-brahim-afek-tounes-a-eu-raison-de-se-joindre-a-la-coalition-et-c-est-au-chef-du-gouvernement-de-decider-des-reconductions",
+                    "date_publish": "05.01.2016",
+                    "titre": "Yassine Brahim : Afek Tounès a eu raison de se joindre à la coalition et c’est au chef du gouvernement de décider des reconductions",
+                    "id": "https://www.leaders.com.tn/video/1565/1565-yassine-brahim-afek-tounes-a-eu-raison-de-se-joindre-a-la-coalition-et-c-est-au-chef-du-gouvernement-de-decider-des-reconductions"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1564/1564-slim-chaker-etrenne-les-nouvelles-banques-publiques-de-2eme-generation",
+                    "date_publish": "05.01.2016",
+                    "titre": "Slim Chaker étrenne les nouvelles banques publiques de 2ème génération",
+                    "id": "https://www.leaders.com.tn/video/1564/1564-slim-chaker-etrenne-les-nouvelles-banques-publiques-de-2eme-generation"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1563/1563-chedly-ayari-celebrons-la-bh-en-nouvelle-banque-nouveau-capital-nouvelle-gouvernance",
+                    "date_publish": "05.01.2016",
+                    "titre": "Chedly Ayari : Célébrons la BH en nouvelle banque, nouveau capital, nouvelle gouvernance",
+                    "id": "https://www.leaders.com.tn/video/1563/1563-chedly-ayari-celebrons-la-bh-en-nouvelle-banque-nouveau-capital-nouvelle-gouvernance"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1562/1562-vient-de-paraitre-habib-bourguiba-1903-2000-ombres-et-lumieres-de-maher-kamoun",
+                    "date_publish": "05.01.2016",
+                    "titre": "Vient de paraître : « Habib Bourguiba 1903- 2000 Ombres et Lumières» de Maher Kamoun",
+                    "id": "https://www.leaders.com.tn/video/1562/1562-vient-de-paraitre-habib-bourguiba-1903-2000-ombres-et-lumieres-de-maher-kamoun"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1561/1561-%D9%85%D9%86%D8%B5%D9%88%D8%B1-%D9%85%D8%B9%D9%84-%D9%89-%D9%8A%D8%A8%D8%B3%D8%B7-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%AD%D9%84%D9%88%D9%84-2-2",
+                    "date_publish": "05.01.2016",
+                    "titre": "(منصور معلّى يبسط القضايا والحلول (2/2",
+                    "id": "https://www.leaders.com.tn/video/1561/1561-%D9%85%D9%86%D8%B5%D9%88%D8%B1-%D9%85%D8%B9%D9%84-%D9%89-%D9%8A%D8%A8%D8%B3%D8%B7-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%AD%D9%84%D9%88%D9%84-2-2"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1560/1560-%D9%85%D9%86%D8%B5%D9%88%D8%B1-%D9%85%D8%B9%D9%84-%D9%89-%D9%8A%D8%A8%D8%B3%D8%B7-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%AD%D9%84%D9%88%D9%84-1-2",
+                    "date_publish": "05.01.2016",
+                    "titre": "(منصور معلّى يبسط القضايا والحلول (1/2",
+                    "id": "https://www.leaders.com.tn/video/1560/1560-%D9%85%D9%86%D8%B5%D9%88%D8%B1-%D9%85%D8%B9%D9%84-%D9%89-%D9%8A%D8%A8%D8%B3%D8%B7-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%AD%D9%84%D9%88%D9%84-1-2"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1555/1555-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D9%83%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%86%D8%A7%D8%A8%D9%84%D9%8A-%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D9%82%D9%8A-%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8",
+                    "date_publish": "05.01.2016",
+                    "titre": "مصطفى كمال النابلي: شروط الحرب الحقيقيّة على الإرهاب",
+                    "id": "https://www.leaders.com.tn/video/1555/1555-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D9%83%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D9%86%D8%A7%D8%A8%D9%84%D9%8A-%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D9%82%D9%8A-%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1554/1554-mustapha-kamel-nabli-je-m-etonne-du-silence-de-la-banque-centrale",
+                    "date_publish": "05.01.2016",
+                    "titre": "Mustapha Kamel Nabli : Je m’étonne du silence de la Banque centrale",
+                    "id": "https://www.leaders.com.tn/video/1554/1554-mustapha-kamel-nabli-je-m-etonne-du-silence-de-la-banque-centrale"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1553/1553-%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1-%D8%B1%D8%A7%D9%81%D8%B9-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A8-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%B9%D9%86-%D8%A7%D9%84%D8%A3%D9%88%D8%B6%D8%A7%D8%B9-%D9%81%D9%8A-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7",
+                    "date_publish": "05.01.2016",
+                    "titre": "الدكتور رافع الطبيب في حديث عن الأوضاع في ليبيا",
+                    "id": "https://www.leaders.com.tn/video/1553/1553-%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1-%D8%B1%D8%A7%D9%81%D8%B9-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A8-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%B9%D9%86-%D8%A7%D9%84%D8%A3%D9%88%D8%B6%D8%A7%D8%B9-%D9%81%D9%8A-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1552/1552-la-nouvelle-ambassadeure-du-canada-a-tunis-carol-mc-queen-resolue-a-developper-la-cooperation-bilaterale",
+                    "date_publish": "04.01.2016",
+                    "titre": "La nouvelle ambassadeure du Canada à Tunis, Carol Mc Queen, résolue à développer la coopération bilatérale",
+                    "id": "https://www.leaders.com.tn/video/1552/1552-la-nouvelle-ambassadeure-du-canada-a-tunis-carol-mc-queen-resolue-a-developper-la-cooperation-bilaterale"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1551/1551-caid-essebsi-a-leaders-l-alliance-avec-ennahdha-et-essid-a-la-kasbah-des-choix-necessaires-judicieux",
+                    "date_publish": "04.01.2016",
+                    "titre": "Caïd Essebsi à Leaders : L'alliance avec Ennahdha et Essid à la Kasbah : «Des choix nécessaires, judicieux»",
+                    "id": "https://www.leaders.com.tn/video/1551/1551-caid-essebsi-a-leaders-l-alliance-avec-ennahdha-et-essid-a-la-kasbah-des-choix-necessaires-judicieux"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1550/1550-sadok-belaid-quelles-propositions-approfondies-faire-au-president-caid-essebsi-3-3",
+                    "date_publish": "04.01.2016",
+                    "titre": "Sadok Belaïd : Quelles propositions approfondies faire au président Caïd Essebsi (3/3)",
+                    "id": "https://www.leaders.com.tn/video/1550/1550-sadok-belaid-quelles-propositions-approfondies-faire-au-president-caid-essebsi-3-3"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1549/1549-sadok-belaid-ennahdha-doit-trancher-on-ne-fait-pas-de-la-politique-avec-la-religion-2-3",
+                    "date_publish": "04.01.2016",
+                    "titre": "Sadok Belaïd : Ennahdha doit trancher : on ne fait pas de la politique avec la religion (2/3)",
+                    "id": "https://www.leaders.com.tn/video/1549/1549-sadok-belaid-ennahdha-doit-trancher-on-ne-fait-pas-de-la-politique-avec-la-religion-2-3"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1548/1548-sadok-belaid-ce-que-nous-a-dit-le-president-caid-essebsi",
+                    "date_publish": "04.01.2016",
+                    "titre": "Sadok Belaïd : Ce que nous a dit le président Caïd Essebsi 1/3",
+                    "id": "https://www.leaders.com.tn/video/1548/1548-sadok-belaid-ce-que-nous-a-dit-le-president-caid-essebsi"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1547/1547-taieb-baccouche-mohsen-marzouk-je-n-accuse-pas-ne-disculpe-pas-je-mets-en-garde",
+                    "date_publish": "04.01.2016",
+                    "titre": "Taïeb Baccouche - Mohsen Marzouk : « Je n’accuse pas, ne disculpe pas, je mets en garde ! »",
+                    "id": "https://www.leaders.com.tn/video/1547/1547-taieb-baccouche-mohsen-marzouk-je-n-accuse-pas-ne-disculpe-pas-je-mets-en-garde"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1546/1546-yassine-brahim-2016-sera-l-annee-du-plan-du-code-des-investissements-et-du-partenariat-public-prive",
+                    "date_publish": "04.01.2016",
+                    "titre": "Yassine Brahim : 2016 sera l’année du Plan, du code des Investissements et du Partenariat Public-Privé",
+                    "id": "https://www.leaders.com.tn/video/1546/1546-yassine-brahim-2016-sera-l-annee-du-plan-du-code-des-investissements-et-du-partenariat-public-prive"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1196/1196-ahmed-rjiba-voici-pourquoi-il-faut-souscrire-a-l-augmentation-de-capital-de-la-bh",
+                    "date_publish": "02.09.2015",
+                    "titre": "Ahmed Rjiba : Voici pourquoi il faut souscrire à l’augmentation de capital de la BH",
+                    "id": "https://www.leaders.com.tn/video/1196/1196-ahmed-rjiba-voici-pourquoi-il-faut-souscrire-a-l-augmentation-de-capital-de-la-bh"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1195/1195-chawki-gaddes-le-respect-des-donnees-personnelles-peut-engendrer-50-000-emplois",
+                    "date_publish": "02.09.2015",
+                    "titre": "Chawki Gaddes : « Le respect des données personnelles peut engendrer 50.000 emplois »",
+                    "id": "https://www.leaders.com.tn/video/1195/1195-chawki-gaddes-le-respect-des-donnees-personnelles-peut-engendrer-50-000-emplois"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1194/1194-la-main-sur-le-coeur-la-stb-attend-la-cloture-de-son-augmentation-de-capital-et-la-nomination-de-son-directeur-general",
+                    "date_publish": "31.08.2015",
+                    "titre": "La main sur le cœur, la STB attend la clôture de son augmentation de capital et la nomination de son directeur général",
+                    "id": "https://www.leaders.com.tn/video/1194/1194-la-main-sur-le-coeur-la-stb-attend-la-cloture-de-son-augmentation-de-capital-et-la-nomination-de-son-directeur-general"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1193/1193-va-t-on-vers-l-interdiction-des-maillots-de-bain-sur-les-plages-de-korba",
+                    "date_publish": "26.08.2015",
+                    "titre": "Va-t-on vers l’interdiction des maillots de bain sur les plages de Korba?",
+                    "id": "https://www.leaders.com.tn/video/1193/1193-va-t-on-vers-l-interdiction-des-maillots-de-bain-sur-les-plages-de-korba"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1192/1192-minusma",
+                    "date_publish": "24.08.2015",
+                    "titre": "Monji Hamdi desse un bilan positif de la mission minusma",
+                    "id": "https://www.leaders.com.tn/video/1192/1192-minusma"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1190/1190-dans-une-interview-a-leaders-le-mufti-repond-a-ses-detracteurs",
+                    "date_publish": "20.08.2015",
+                    "titre": "Dans une interview à Leaders, le mufti répond à ses détracteurs",
+                    "id": "https://www.leaders.com.tn/video/1190/1190-dans-une-interview-a-leaders-le-mufti-repond-a-ses-detracteurs"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1189/1189-amine-frigui",
+                    "date_publish": "20.08.2015",
+                    "titre": "Amine Frigui",
+                    "id": "https://www.leaders.com.tn/video/1189/1189-amine-frigui"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1176/1176-olfa-hamdi-cette-tunisienne-qui-cartonne-aux-etats-unis",
+                    "date_publish": "12.08.2015",
+                    "titre": "Olfa Hamdi : Cette tunisienne qui cartonne aux Etats-Unis",
+                    "id": "https://www.leaders.com.tn/video/1176/1176-olfa-hamdi-cette-tunisienne-qui-cartonne-aux-etats-unis"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1175/1175-accord-de-vienne-une-nouvelle-ere-dans-les-relations-arabo-iraniennes",
+                    "date_publish": "07.08.2015",
+                    "titre": "Accord de Vienne une nouvelle ère dans les relations arabo-iraniennes ?",
+                    "id": "https://www.leaders.com.tn/video/1175/1175-accord-de-vienne-une-nouvelle-ere-dans-les-relations-arabo-iraniennes"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/1155/1155-kaberuka-la-tunisie-bien-placee-pour-devenir-un-centre-regional-de-la-bad",
+                    "date_publish": "03.08.2015",
+                    "titre": "Kaberuka : la Tunisie bien placée pour devenir un centre régional de la BAD",
+                    "id": "https://www.leaders.com.tn/video/1155/1155-kaberuka-la-tunisie-bien-placee-pour-devenir-un-centre-regional-de-la-bad"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/898/0898-la-traque-des-terroristes-se-poursuit-un-jihadiste-tue-et-16-autres-arretes-pres-de-bizerte",
+                    "date_publish": "24.07.2015",
+                    "titre": "La traque des terroristes se poursuit : un jihadiste tué et 16 autres arrêtés près de Bizerte",
+                    "id": "https://www.leaders.com.tn/video/898/0898-la-traque-des-terroristes-se-poursuit-un-jihadiste-tue-et-16-autres-arretes-pres-de-bizerte"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/766/0766-tunisie-77828-personnes-arretees-depuis-janvier-2105-dont-45-824-recherchees",
+                    "date_publish": "13.07.2015",
+                    "titre": "Tunisie : 77828 personnes arrêtées depuis janvier 2105, dont 45 824 recherchées",
+                    "id": "https://www.leaders.com.tn/video/766/0766-tunisie-77828-personnes-arretees-depuis-janvier-2105-dont-45-824-recherchees"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/765/0765-le-ministere-de-l-interieur-revele-les-details-de-l-embuscade-tendue-a-mourad-gharsalli",
+                    "date_publish": "13.07.2015",
+                    "titre": "Le ministère de l’intérieur révèle les détails de l’embuscade tendue à Mourad Gharsalli",
+                    "id": "https://www.leaders.com.tn/video/765/0765-le-ministere-de-l-interieur-revele-les-details-de-l-embuscade-tendue-a-mourad-gharsalli"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/764/0764-rached-ghannouchi-a-leaders-nous-soutenons-le-gouvernement-c-est-notre-devoir-en-ces-moments-difficiles",
+                    "date_publish": "09.07.2015",
+                    "titre": "Rached Ghannouchi à Leaders : «Nous soutenons le gouvernement, c'est notre devoir en ces moments difficiles»",
+                    "id": "https://www.leaders.com.tn/video/764/0764-rached-ghannouchi-a-leaders-nous-soutenons-le-gouvernement-c-est-notre-devoir-en-ces-moments-difficiles"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/747/0747-caid-essebsi-sur-europe1-en-chef-de-guerre-il-veut-mobiliser-les-tunisiens-contre-daech",
+                    "date_publish": "30.06.2015",
+                    "titre": "Caïd Essebsi sur Europe1 : En chef de guerre, il veut mobiliser les Tunisiens contre Daech",
+                    "id": "https://www.leaders.com.tn/video/747/0747-caid-essebsi-sur-europe1-en-chef-de-guerre-il-veut-mobiliser-les-tunisiens-contre-daech"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/587/0587-caid-essebsi-appelle-le-g7-a-mettre-en-place-un-plan-de-soutien-a-la-tunisie",
+                    "date_publish": "08.06.2015",
+                    "titre": "Caïd Essebsi appelle le G7 à mettre en place un plan de soutien à la Tunisie",
+                    "id": "https://www.leaders.com.tn/video/587/0587-caid-essebsi-appelle-le-g7-a-mettre-en-place-un-plan-de-soutien-a-la-tunisie"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/509/0509-caid-essebsi-arrive-a-washington-une-visite-hautement-strategique-et-politique-commence",
+                    "date_publish": "20.05.2015",
+                    "titre": "Caïd Essebsi arrivé à Washington : Une visite « hautement stratégique et politique » commence",
+                    "id": "https://www.leaders.com.tn/video/509/0509-caid-essebsi-arrive-a-washington-une-visite-hautement-strategique-et-politique-commence"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/471/0471-diner-d-etat-a-l-elysee",
+                    "date_publish": "08.04.2015",
+                    "titre": "Dîner d’Etat à l’Elysée+",
+                    "id": "https://www.leaders.com.tn/video/471/0471-diner-d-etat-a-l-elysee"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/457/0457-diner-d-etat-a-l-elysee-avec-hollande-et-beji-caid-essebsi",
+                    "date_publish": "08.04.2015",
+                    "titre": "Dîner d’Etat à l’Elysée, avec Hollande et Béji Caïd Essebsi",
+                    "id": "https://www.leaders.com.tn/video/457/0457-diner-d-etat-a-l-elysee-avec-hollande-et-beji-caid-essebsi"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/369/0369-revelations-sur-l-attaque-du-bardo-23-terroristes-impliques-la-plupart-deja-arretes",
+                    "date_publish": "26.03.2015",
+                    "titre": "Révélations sur l’attaque du Bardo : 23 terroristes impliqués, la plupart déjà arrêtés",
+                    "id": "https://www.leaders.com.tn/video/369/0369-revelations-sur-l-attaque-du-bardo-23-terroristes-impliques-la-plupart-deja-arretes"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/26/0026-mohamed-abid",
+                    "date_publish": "27.01.2015",
+                    "titre": "Mohamed Abid",
+                    "id": "https://www.leaders.com.tn/video/26/0026-mohamed-abid"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/25/0025-qatar-airways",
+                    "date_publish": "26.01.2015",
+                    "titre": "Qatar Airways",
+                    "id": "https://www.leaders.com.tn/video/25/0025-qatar-airways"
+                },
+                {
+                    "url_video": "https://www.leaders.com.tn/video/24/0024-qatar",
+                    "date_publish": "26.01.2015",
+                    "titre": "Qatar",
+                    "id": "https://www.leaders.com.tn/video/24/0024-qatar"
+                }
+            ]
+        }
+    }
+}
